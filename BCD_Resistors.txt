@@ -1,0 +1,1366 @@
+Resistors:  (1, 2, 4, 8)
+  0.5333 Ohm using    (8|4|2|1)    , most stressed R=1 at   53%, possible overload 187.5%
+  0.5714 Ohm using     (4|2|1)     , most stressed R=1 at   57%, possible overload 175.0%
+  0.6154 Ohm using     (8|2|1)     , most stressed R=1 at   62%, possible overload 162.5%
+  0.6316 Ohm using    (8+4)|2|1    , most stressed R=1 at   63%, possible overload 158.3%
+  0.6667 Ohm using      (2|1)      , most stressed R=1 at   67%, possible overload 150.0%
+  0.7273 Ohm using     (8|4|1)     , most stressed R=1 at   73%, possible overload 137.5%
+  0.7407 Ohm using    (8+2)|4|1    , most stressed R=1 at   74%, possible overload 135.0%
+  0.7742 Ohm using    8|(4+2)|1    , most stressed R=1 at   77%, possible overload 129.2%
+  0.8000 Ohm using      (4|1)      , most stressed R=1 at   80%, possible overload 125.0%
+  0.8571 Ohm using     (4+2)|1     , most stressed R=1 at   86%, possible overload 116.7%
+  0.8889 Ohm using      (8|1)      , most stressed R=1 at   89%, possible overload 112.5%
+  0.9091 Ohm using     (8+2)|1     , most stressed R=1 at   91%, possible overload 110.0%
+  0.9231 Ohm using     (8+4)|1     , most stressed R=1 at   92%, possible overload 108.3%
+  0.9333 Ohm using    (8+4+2)|1    , most stressed R=1 at   93%, possible overload 107.1%
+  1.0000 Ohm using        1        , most stressed R=1 at  100%, possible overload 100.0%
+  1.1429 Ohm using     (8|4|2)     , most stressed R=2 at   57%, possible overload 175.0%
+  1.1613 Ohm using    (8+1)|4|2    , most stressed R=2 at   58%, possible overload 172.2%
+  1.2121 Ohm using    8|(4+1)|2    , most stressed R=2 at   61%, possible overload 165.0%
+  1.3333 Ohm using      (4|2)      , most stressed R=2 at   67%, possible overload 150.0%
+  1.4118 Ohm using    8|4|(2+1)    , most stressed R=4 at   35%, possible overload 283.3%
+  1.4286 Ohm using     (4+1)|2     , most stressed R=2 at   71%, possible overload 140.0%
+  1.6000 Ohm using      (8|2)      , most stressed R=2 at   80%, possible overload 125.0%
+  1.6364 Ohm using     (8+1)|2     , most stressed R=2 at   82%, possible overload 122.2%
+  1.7143 Ohm using     (8+4)|2     , most stressed R=2 at   86%, possible overload 116.7%
+  1.7143 Ohm using     4|(2+1)     , most stressed R=4 at   43%, possible overload 233.3%
+  1.7333 Ohm using    (8+4+1)|2    , most stressed R=2 at   87%, possible overload 115.4%
+  2.0000 Ohm using        2        , most stressed R=2 at  100%, possible overload 100.0%
+  2.1429 Ohm using    (8|4|2)+1    , most stressed R=1 at   47%, possible overload 214.3%
+  2.1818 Ohm using     8|(2+1)     , most stressed R=2 at   48%, possible overload 206.2%
+  2.2222 Ohm using   (8|1)+(4|2)   , most stressed R=2 at   40%, possible overload 250.0%
+  2.3333 Ohm using     (4|2)+1     , most stressed R=1 at   43%, possible overload 233.3%
+  2.4000 Ohm using   (8|2)+(4|1)   , most stressed R=2 at   53%, possible overload 187.5%
+  2.6000 Ohm using     (8|2)+1     , most stressed R=2 at   49%, possible overload 203.1%
+  2.6667 Ohm using      (8|4)      , most stressed R=4 at   67%, possible overload 150.0%
+  2.7273 Ohm using    (8|4|1)+2    , most stressed R=2 at   73%, possible overload 136.4%
+  2.7692 Ohm using     (8+1)|4     , most stressed R=4 at   69%, possible overload 144.4%
+  2.8000 Ohm using     (4|1)+2     , most stressed R=2 at   71%, possible overload 140.0%
+  2.8571 Ohm using     (8+2)|4     , most stressed R=4 at   71%, possible overload 140.0%
+  2.8889 Ohm using     (8|1)+2     , most stressed R=2 at   69%, possible overload 144.4%
+  2.9333 Ohm using    (8+2+1)|4    , most stressed R=4 at   73%, possible overload 136.4%
+  3.0000 Ohm using       2+1       , most stressed R=2 at   67%, possible overload 150.0%
+  3.0769 Ohm using     8|(4+1)     , most stressed R=4 at   49%, possible overload 203.1%
+  3.3333 Ohm using   (8|4)+(2|1)   , most stressed R=4 at   53%, possible overload 187.5%
+  3.4286 Ohm using     8|(4+2)     , most stressed R=8 at   43%, possible overload 233.3%
+  3.6000 Ohm using   (8+1)|(4+2)   , most stressed R=4 at   40%, possible overload 250.0%
+  3.6667 Ohm using     (8|4)+1     , most stressed R=4 at   48%, possible overload 206.2%
+  3.7333 Ohm using    8|(4+2+1)    , most stressed R=8 at   47%, possible overload 214.3%
+  4.0000 Ohm using        4        , most stressed R=4 at  100%, possible overload 100.0%
+  4.6154 Ohm using    (8|2|1)+4    , most stressed R=4 at   87%, possible overload 115.4%
+  4.6667 Ohm using     (8|4)+2     , most stressed R=2 at   43%, possible overload 233.3%
+  4.6667 Ohm using     4+(2|1)     , most stressed R=4 at   86%, possible overload 116.7%
+  4.8889 Ohm using     (8|1)+4     , most stressed R=4 at   82%, possible overload 122.2%
+  5.0000 Ohm using       4+1       , most stressed R=4 at   80%, possible overload 125.0%
+  5.6000 Ohm using     (8|2)+4     , most stressed R=4 at   71%, possible overload 140.0%
+  5.6667 Ohm using    (8|4)+2+1    , most stressed R=2 at   35%, possible overload 283.3%
+  6.0000 Ohm using       4+2       , most stressed R=4 at   67%, possible overload 150.0%
+  6.6000 Ohm using    (8|2)+4+1    , most stressed R=4 at   61%, possible overload 165.0%
+  6.8889 Ohm using    (8|1)+4+2    , most stressed R=4 at   58%, possible overload 172.2%
+  7.0000 Ohm using      4+2+1      , most stressed R=4 at   57%, possible overload 175.0%
+  8.0000 Ohm using        8        , most stressed R=8 at  100%, possible overload 100.0%
+  8.5714 Ohm using    8+(4|2|1)    , most stressed R=8 at   93%, possible overload 107.1%
+  8.6667 Ohm using     8+(2|1)     , most stressed R=8 at   92%, possible overload 108.3%
+  8.8000 Ohm using     8+(4|1)     , most stressed R=8 at   91%, possible overload 110.0%
+  9.0000 Ohm using       8+1       , most stressed R=8 at   89%, possible overload 112.5%
+  9.3333 Ohm using     8+(4|2)     , most stressed R=8 at   86%, possible overload 116.7%
+ 10.0000 Ohm using       8+2       , most stressed R=8 at   80%, possible overload 125.0%
+ 10.3333 Ohm using    8+(4|2)+1    , most stressed R=8 at   77%, possible overload 129.2%
+ 10.8000 Ohm using    8+(4|1)+2    , most stressed R=8 at   74%, possible overload 135.0%
+ 11.0000 Ohm using      8+2+1      , most stressed R=8 at   73%, possible overload 137.5%
+ 12.0000 Ohm using       8+4       , most stressed R=8 at   67%, possible overload 150.0%
+ 12.6667 Ohm using    8+4+(2|1)    , most stressed R=8 at   63%, possible overload 158.3%
+ 13.0000 Ohm using      8+4+1      , most stressed R=8 at   62%, possible overload 162.5%
+ 14.0000 Ohm using      8+4+2      , most stressed R=8 at   57%, possible overload 175.0%
+ 15.0000 Ohm using     8+4+2+1     , most stressed R=8 at   53%, possible overload 187.5%
+74 records 
+Resistors:  (10, 20, 40, 80)
+  5.3333 Ohm using  (80|40|20|10)  , most stressed R=10 at   53%, possible overload 187.5%
+  5.7143 Ohm using    (40|20|10)   , most stressed R=10 at   57%, possible overload 175.0%
+  6.1538 Ohm using    (80|20|10)   , most stressed R=10 at   62%, possible overload 162.5%
+  6.3158 Ohm using  (80+40)|20|10  , most stressed R=10 at   63%, possible overload 158.3%
+  6.6667 Ohm using     (20|10)     , most stressed R=10 at   67%, possible overload 150.0%
+  7.2727 Ohm using    (80|40|10)   , most stressed R=10 at   73%, possible overload 137.5%
+  7.4074 Ohm using  (80+20)|40|10  , most stressed R=10 at   74%, possible overload 135.0%
+  7.7419 Ohm using  80|(40+20)|10  , most stressed R=10 at   77%, possible overload 129.2%
+  8.0000 Ohm using     (40|10)     , most stressed R=10 at   80%, possible overload 125.0%
+  8.5714 Ohm using    (40+20)|10   , most stressed R=10 at   86%, possible overload 116.7%
+  8.8889 Ohm using     (80|10)     , most stressed R=10 at   89%, possible overload 112.5%
+  9.0909 Ohm using    (80+20)|10   , most stressed R=10 at   91%, possible overload 110.0%
+  9.2308 Ohm using    (80+40)|10   , most stressed R=10 at   92%, possible overload 108.3%
+  9.3333 Ohm using  (80+40+20)|10  , most stressed R=10 at   93%, possible overload 107.1%
+ 10.0000 Ohm using        10       , most stressed R=10 at  100%, possible overload 100.0%
+ 11.4286 Ohm using    (80|40|20)   , most stressed R=20 at   57%, possible overload 175.0%
+ 11.6129 Ohm using  (80+10)|40|20  , most stressed R=20 at   58%, possible overload 172.2%
+ 12.1212 Ohm using  80|(40+10)|20  , most stressed R=20 at   61%, possible overload 165.0%
+ 13.3333 Ohm using     (40|20)     , most stressed R=20 at   67%, possible overload 150.0%
+ 14.1176 Ohm using  80|40|(20+10)  , most stressed R=40 at   35%, possible overload 283.3%
+ 14.2857 Ohm using    (40+10)|20   , most stressed R=20 at   71%, possible overload 140.0%
+ 16.0000 Ohm using     (80|20)     , most stressed R=20 at   80%, possible overload 125.0%
+ 16.3636 Ohm using    (80+10)|20   , most stressed R=20 at   82%, possible overload 122.2%
+ 17.1429 Ohm using    (80+40)|20   , most stressed R=20 at   86%, possible overload 116.7%
+ 17.1429 Ohm using    40|(20+10)   , most stressed R=40 at   43%, possible overload 233.3%
+ 17.3333 Ohm using  (80+40+10)|20  , most stressed R=20 at   87%, possible overload 115.4%
+ 20.0000 Ohm using        20       , most stressed R=20 at  100%, possible overload 100.0%
+ 21.4286 Ohm using  (80|40|20)+10  , most stressed R=10 at   47%, possible overload 214.3%
+ 21.8182 Ohm using    80|(20+10)   , most stressed R=20 at   48%, possible overload 206.2%
+ 22.2222 Ohm using (80|10)+(40|20) , most stressed R=20 at   40%, possible overload 250.0%
+ 23.3333 Ohm using    (40|20)+10   , most stressed R=10 at   43%, possible overload 233.3%
+ 24.0000 Ohm using (80|20)+(40|10) , most stressed R=20 at   53%, possible overload 187.5%
+ 26.0000 Ohm using    (80|20)+10   , most stressed R=20 at   49%, possible overload 203.1%
+ 26.6667 Ohm using     (80|40)     , most stressed R=40 at   67%, possible overload 150.0%
+ 27.2727 Ohm using  (80|40|10)+20  , most stressed R=20 at   73%, possible overload 136.4%
+ 27.6923 Ohm using    (80+10)|40   , most stressed R=40 at   69%, possible overload 144.4%
+ 28.0000 Ohm using    (40|10)+20   , most stressed R=20 at   71%, possible overload 140.0%
+ 28.5714 Ohm using    (80+20)|40   , most stressed R=40 at   71%, possible overload 140.0%
+ 28.8889 Ohm using    (80|10)+20   , most stressed R=20 at   69%, possible overload 144.4%
+ 29.3333 Ohm using  (80+20+10)|40  , most stressed R=40 at   73%, possible overload 136.4%
+ 30.0000 Ohm using      20+10      , most stressed R=20 at   67%, possible overload 150.0%
+ 30.7692 Ohm using    80|(40+10)   , most stressed R=40 at   49%, possible overload 203.1%
+ 33.3333 Ohm using (80|40)+(20|10) , most stressed R=40 at   53%, possible overload 187.5%
+ 34.2857 Ohm using    80|(40+20)   , most stressed R=80 at   43%, possible overload 233.3%
+ 36.0000 Ohm using (80+10)|(40+20) , most stressed R=40 at   40%, possible overload 250.0%
+ 36.6667 Ohm using    (80|40)+10   , most stressed R=40 at   48%, possible overload 206.2%
+ 37.3333 Ohm using  80|(40+20+10)  , most stressed R=80 at   47%, possible overload 214.3%
+ 40.0000 Ohm using        40       , most stressed R=40 at  100%, possible overload 100.0%
+ 46.1538 Ohm using  (80|20|10)+40  , most stressed R=40 at   87%, possible overload 115.4%
+ 46.6667 Ohm using    40+(20|10)   , most stressed R=40 at   86%, possible overload 116.7%
+ 46.6667 Ohm using    (80|40)+20   , most stressed R=20 at   43%, possible overload 233.3%
+ 48.8889 Ohm using    (80|10)+40   , most stressed R=40 at   82%, possible overload 122.2%
+ 50.0000 Ohm using      40+10      , most stressed R=40 at   80%, possible overload 125.0%
+ 56.0000 Ohm using    (80|20)+40   , most stressed R=40 at   71%, possible overload 140.0%
+ 56.6667 Ohm using  (80|40)+20+10  , most stressed R=20 at   35%, possible overload 283.3%
+ 60.0000 Ohm using      40+20      , most stressed R=40 at   67%, possible overload 150.0%
+ 66.0000 Ohm using  (80|20)+40+10  , most stressed R=40 at   61%, possible overload 165.0%
+ 68.8889 Ohm using  (80|10)+40+20  , most stressed R=40 at   58%, possible overload 172.2%
+ 70.0000 Ohm using     40+20+10    , most stressed R=40 at   57%, possible overload 175.0%
+ 80.0000 Ohm using        80       , most stressed R=80 at  100%, possible overload 100.0%
+ 85.7143 Ohm using  80+(40|20|10)  , most stressed R=80 at   93%, possible overload 107.1%
+ 86.6667 Ohm using    80+(20|10)   , most stressed R=80 at   92%, possible overload 108.3%
+ 88.0000 Ohm using    80+(40|10)   , most stressed R=80 at   91%, possible overload 110.0%
+ 90.0000 Ohm using      80+10      , most stressed R=80 at   89%, possible overload 112.5%
+ 93.3333 Ohm using    80+(40|20)   , most stressed R=80 at   86%, possible overload 116.7%
+100.0000 Ohm using      80+20      , most stressed R=80 at   80%, possible overload 125.0%
+103.3333 Ohm using  80+(40|20)+10  , most stressed R=80 at   77%, possible overload 129.2%
+108.0000 Ohm using  80+(40|10)+20  , most stressed R=80 at   74%, possible overload 135.0%
+110.0000 Ohm using     80+20+10    , most stressed R=80 at   73%, possible overload 137.5%
+120.0000 Ohm using      80+40      , most stressed R=80 at   67%, possible overload 150.0%
+126.6667 Ohm using  80+40+(20|10)  , most stressed R=80 at   63%, possible overload 158.3%
+130.0000 Ohm using     80+40+10    , most stressed R=80 at   62%, possible overload 162.5%
+140.0000 Ohm using     80+40+20    , most stressed R=80 at   57%, possible overload 175.0%
+150.0000 Ohm using   80+40+20+10   , most stressed R=80 at   53%, possible overload 187.5%
+74 records 
+  0.5 Ohm with 0.00% error   0.5000 using     (8|4|2|1)  |  (40|10)        0.5333 |  8.0000
+  0.6 Ohm with 0.00% error   0.6000 using  (8|2|1)  |  (80|20)+(40|10)     0.6154 | 24.0000
+  0.7 Ohm with 0.13% error   0.7009 using  8|(4+2)|1  |  (80+20)|40|10     0.7742 |  7.4074
+  0.8 Ohm with 0.00% error   0.8000 using             (4|1)                   0.8000   
+  0.9 Ohm with 0.00% error   0.9000 using       (8+2)|1  |  80+10          0.9091 | 90.0000
+  1.0 Ohm with 0.00% error   1.0000 using               1                     1.0000   
+  1.1 Ohm with 0.00% error   1.1000 using   (8|4|2)  |  (80+20+10)|40      1.1429 | 29.3333
+  1.2 Ohm with 0.00% error   1.2000 using      8|(4+1)|2  |  80+40         1.2121 | 120.0000
+  1.3 Ohm with 0.18% error   1.3023 using      (4|2)  |  (80|20)+40        1.3333 | 56.0000
+  1.4 Ohm with 0.00% error   1.4000 using      (4+1)|2  |  40+20+10        1.4286 | 70.0000
+  1.5 Ohm with 0.00% error   1.5000 using   (8|2)  |  (80|20)+(40|10)      1.6000 | 24.0000
+  1.6 Ohm with 0.00% error   1.6000 using             (8|2)                   1.6000   
+  1.7 Ohm with 0.03% error   1.7006 using      (8+4+1)|2  |  80+10         1.7333 | 90.0000
+  1.8 Ohm with 0.25% error   1.8045 using    (8|4|2)+1  |  (80|40|20)      2.1429 | 11.4286
+  1.9 Ohm with 0.25% error   1.9048 using            2  |  40              2.0000 | 40.0000
+  2.0 Ohm with 0.00% error   2.0000 using               2                     2.0000   
+  2.1 Ohm with 0.00% error   2.1000 using     8|(2+1)  |  (80|20)+40       2.1818 | 56.0000
+  2.2 Ohm with 0.01% error   2.2003 using     (8|1)+2  |  (80+40)|10       2.8889 |  9.2308
+  2.3 Ohm with 0.04% error   2.3009 using         (8|2)+1  |  20           2.6000 | 20.0000
+  2.4 Ohm with 0.00% error   2.4000 using          (8|2)+(4|1)                2.4000   
+  2.5 Ohm with 0.00% error   2.5000 using          (8|4)  |  40            2.6667 | 40.0000
+  2.6 Ohm with 0.00% error   2.6000 using            (8|2)+1                  2.6000   
+  2.7 Ohm with 0.00% error   2.7000 using   (8+1)|4  |  80+(40|10)+20      2.7692 | 108.0000
+  2.8 Ohm with 0.00% error   2.8000 using            (4|1)+2                  2.8000   
+  2.9 Ohm with 0.04% error   2.9011 using       2+1  |  80+(40|10)         3.0000 | 88.0000
+  3.0 Ohm with 0.00% error   3.0000 using              2+1                    3.0000   
+  3.1 Ohm with 0.28% error   3.1088 using (8|4)+(2|1)  |  (80|20|10)+40    3.3333 | 46.1538
+  3.2 Ohm with 0.00% error   3.2000 using       (8|4)+(2|1)  |  80         3.3333 | 80.0000
+  3.3 Ohm with 0.00% error   3.3000 using     8|(4+2)  |  80+(40|10)       3.4286 | 88.0000
+  3.4 Ohm with 0.32% error   3.4109 using     (8|4)+1  |  (80|10)+40       3.6667 | 48.8889
+  3.5 Ohm with 0.00% error   3.5000 using    8|(4+2+1)  |  (80|20)+40      3.7333 | 56.0000
+  3.6 Ohm with 0.00% error   3.6000 using          (8+1)|(4+2)                3.6000   
+  3.7 Ohm with 0.04% error   3.7015 using     (8|1)+4+2  |  (40|10)        6.8889 |  8.0000
+  3.8 Ohm with 0.11% error   3.8040 using     (8|1)+4  |  (80+40)|20       4.8889 | 17.1429
+  3.9 Ohm with 0.18% error   3.9070 using  (8|4)+2  |  (80|20)+(40|10)     4.6667 | 24.0000
+  4.0 Ohm with 0.00% error   4.0000 using               4                     4.0000   
+  4.1 Ohm with 0.18% error   4.1076 using  (8|2|1)+4  |  80|(40+20+10)     4.6154 | 37.3333
+  4.2 Ohm with 0.00% error   4.2000 using    (8|2|1)+4  |  40+(20|10)      4.6154 | 46.6667
+  4.3 Ohm with 0.03% error   4.3011 using       4+1  |  80|(40+10)         5.0000 | 30.7692
+  4.4 Ohm with 0.00% error   4.4000 using       4+1  |  (80|40)+10         5.0000 | 36.6667
+  4.5 Ohm with 0.01% error   4.5006 using   (8|1)+4  |  (80|40)+20+10      4.8889 | 56.6667
+  4.6 Ohm with 0.11% error   4.6053 using     8+(4|2)  |  (80+20)|10       9.3333 |  9.0909
+  4.7 Ohm with 0.05% error   4.7023 using   (8|2)+4  |  (80+20+10)|40      5.6000 | 29.3333
+  4.8 Ohm with 0.00% error   4.8000 using         4+1  |  80+40            5.0000 | 120.0000
+  4.9 Ohm with 0.06% error   4.9027 using      4+2+1  |  (80+10)|20        7.0000 | 16.3636
+  5.0 Ohm with 0.00% error   5.0000 using              4+1                    5.0000   
+  5.1 Ohm with 0.13% error   5.1064 using       4+2  |  80|(40+20)         6.0000 | 34.2857
+  5.2 Ohm with 0.25% error   5.2130 using  (8|1)+4+2  |  (80|40|20)+10     6.8889 | 21.4286
+  5.3 Ohm with 0.02% error   5.3012 using      8+(4|1)  |  (40|20)         8.8000 | 13.3333
+  5.4 Ohm with 0.18% error   5.4098 using      (8|2)+4+1  |  20+10         6.6000 | 30.0000
+  5.5 Ohm with 0.00% error   5.5000 using     4+2  |  (80|20)+40+10        6.0000 | 66.0000
+  5.6 Ohm with 0.00% error   5.6000 using            (8|2)+4                  5.6000   
+  5.7 Ohm with 0.05% error   5.7026 using      4+2+1  |  80|(40+10)        7.0000 | 30.7692
+  5.8 Ohm with 0.11% error   5.8065 using       8+1  |  (80+10)|20         9.0000 | 16.3636
+  5.9 Ohm with 0.03% error   5.9016 using       8+1  |  (80+40)|20         9.0000 | 17.1429
+  6.0 Ohm with 0.00% error   6.0000 using              4+2                    6.0000   
+  6.1 Ohm with 0.12% error   6.1075 using  8|(4+2)|1  +  (80|40|20|10)     0.7742 +  5.3333
+  6.2 Ohm with 0.04% error   6.2028 using     8+(2|1)  |  80|(20+10)       8.6667 | 21.8182
+  6.3 Ohm with 0.05% error   6.3029 using     (8|2)+4+1  |  80+40+20       6.6000 | 140.0000
+  6.4 Ohm with 0.09% error   6.4057 using    8+1  |  (80|10)+(40|20)       9.0000 | 22.2222
+  6.5 Ohm with 0.00% error   6.5000 using     8+(2|1)  |  (80|20)+10       8.6667 | 26.0000
+  6.6 Ohm with 0.00% error   6.6000 using           (8|2)+4+1                 6.6000   
+  6.7 Ohm with 0.01% error   6.7005 using      8+2+1  |  (80+40)|20       11.0000 | 17.1429
+  6.8 Ohm with 0.06% error   6.8041 using       8+(4|1)  |  20+10          8.8000 | 30.0000
+  6.9 Ohm with 0.20% error   6.9136 using      8+(4|2)  |  (80|40)         9.3333 | 26.6667
+  7.0 Ohm with 0.00% error   7.0000 using             4+2+1                   7.0000   
+  7.1 Ohm with 0.22% error   7.1158 using    (4|1)  +  (80+40)|20|10       0.8000 +  6.3158
+  7.2 Ohm with 0.00% error   7.2000 using     (8|4|2|1)  +  (20|10)        0.5333 +  6.6667
+  7.3 Ohm with 0.13% error   7.3092 using     8+(2|1)  |  40+(20|10)       8.6667 | 46.6667
+  7.4 Ohm with 0.05% error   7.4038 using     8+(4|1)  |  40+(20|10)       8.8000 | 46.6667
+  7.5 Ohm with 0.00% error   7.5000 using          8  |  80+40             8.0000 | 120.0000
+  7.6 Ohm with 0.00% error   7.6000 using     (8+4+2)|1  +  (20|10)        0.9333 +  6.6667
+  7.7 Ohm with 0.08% error   7.7064 using      8+4+2  |  (80+40)|20       14.0000 | 17.1429
+  7.8 Ohm with 0.00% error   7.8000 using    8+(4|2|1)  |  80+(20|10)      8.5714 | 86.6667
+  7.9 Ohm with 0.05% error   7.9043 using    (8+4)|2|1  +  (80|40|10)      0.6316 +  7.2727
+  8.0 Ohm with 0.00% error   8.0000 using               8                     8.0000   
+  8.1 Ohm with 0.03% error   8.1026 using   (8+1)|4  +  (80|40|20|10)      2.7692 +  5.3333
+  8.2 Ohm with 0.02% error   8.2019 using   8+4+1  |  (80|10)+(40|20)     13.0000 | 22.2222
+  8.3 Ohm with 0.02% error   8.3019 using       8+2  |  (80|10)+40        10.0000 | 48.8889
+  8.4 Ohm with 0.00% error   8.4000 using     (8+4+1)|2  +  (20|10)        1.7333 +  6.6667
+  8.5 Ohm with 0.00% error   8.5000 using     8+2  |  (80|40)+20+10       10.0000 | 56.6667
+  8.6 Ohm with 0.04% error   8.6032 using     (8|1)+2  +  (40|20|10)       2.8889 +  5.7143
+  8.7 Ohm with 0.01% error   8.7013 using     (4+1)|2  +  (80|40|10)       1.4286 +  7.2727
+  8.8 Ohm with 0.00% error   8.8000 using            8+(4|1)                  8.8000   
+  8.9 Ohm with 0.02% error   8.9017 using      8+2+1  |  40+(20|10)       11.0000 | 46.6667
+  9.0 Ohm with 0.00% error   9.0000 using              8+1                    9.0000   
+  9.1 Ohm with 0.00% error   9.1000 using      8+4+2  |  (80|20)+10       14.0000 | 26.0000
+  9.2 Ohm with 0.03% error   9.2030 using    (8+4)|2|1  +  (40+20)|10      0.6316 +  8.5714
+  9.3 Ohm with 0.04% error   9.3033 using    8+(4|2)+1  |  80+(40|20)     10.3333 | 93.3333
+  9.4 Ohm with 0.08% error   9.4074 using      2  +  (80+20)|40|10         2.0000 +  7.4074
+  9.5 Ohm with 0.04% error   9.5043 using      (8|2|1)  +  (80|10)         0.6154 +  8.8889
+  9.6 Ohm with 0.00% error   9.6000 using       (8|2)  +  (40|10)          1.6000 +  8.0000
+  9.7 Ohm with 0.06% error   9.7063 using     (8|2|1)  +  (80+20)|10       0.6154 +  9.0909
+  9.8 Ohm with 0.02% error   9.8020 using        8+2+1  |  80+10          11.0000 | 90.0000
+  9.9 Ohm with 0.03% error   9.9029 using     8+4  |  (80|40)+20+10       12.0000 | 56.6667
+ 10.0 Ohm with 0.00% error  10.0000 using              8+2                   10.0000   
+ 10.1 Ohm with 0.01% error  10.1010 using     8|(4+1)|2  +  (80|10)        1.2121 +  8.8889
+ 10.2 Ohm with 0.06% error  10.2061 using    (8+2+1)|4  +  (80|40|10)      2.9333 +  7.2727
+ 10.3 Ohm with 0.01% error  10.3007 using     8|4|(2+1)  +  (80|10)        1.4118 +  8.8889
+ 10.4 Ohm with 0.00% error  10.4000 using    (8|2)+(4|1)  +  (40|10)       2.4000 +  8.0000
+ 10.5 Ohm with 0.03% error  10.5027 using    8|4|(2+1)  +  (80+20)|10      1.4118 +  9.0909
+ 10.6 Ohm with 0.00% error  10.6000 using      (8|2)+1  +  (40|10)         2.6000 +  8.0000
+ 10.7 Ohm with 0.01% error  10.7006 using   8+4+2+1  |  80|(40+20+10)     15.0000 | 37.3333
+ 10.8 Ohm with 0.00% error  10.8000 using           8+(4|1)+2                10.8000   
+ 10.9 Ohm with 0.04% error  10.9048 using     (4|2)+1  +  (40+20)|10       2.3333 +  8.5714
+ 11.0 Ohm with 0.00% error  11.0000 using             8+2+1                  11.0000   
+ 11.1 Ohm with 0.04% error  11.1039 using      8+4+(2|1)  |  80+10        12.6667 | 90.0000
+ 11.2 Ohm with 0.00% error  11.2000 using      8+4+2  |  (80|20)+40       14.0000 | 56.0000
+ 11.3 Ohm with 0.04% error  11.3043 using      8+4+1  |  80+(20|10)       13.0000 | 86.6667
+ 11.4 Ohm with 0.06% error  11.4074 using      4  +  (80+20)|40|10         4.0000 +  7.4074
+ 11.5 Ohm with 0.04% error  11.5044 using        8+4+1  |  80+20          13.0000 | 100.0000
+ 11.6 Ohm with 0.00% error  11.6000 using          (8|2)  +  10            1.6000 + 10.0000
+ 11.7 Ohm with 0.12% error  11.7143 using         (8+4)|2  +  10           1.7143 + 10.0000
+ 11.8 Ohm with 0.15% error  11.8182 using    (8|4|1)+2  +  (80+20)|10      2.7273 +  9.0909
+ 11.9 Ohm with 0.04% error  11.9048 using   (8|4)+(2|1)  +  (40+20)|10     3.3333 +  8.5714
+ 12.0 Ohm with 0.00% error  12.0000 using              8+4                   12.0000   
+ 12.1 Ohm with 0.02% error  12.1026 using   (8+1)|4  +  (80+40+20)|10      2.7692 +  9.3333
+ 12.2 Ohm with 0.02% error  12.2028 using    8|(4+2)|1  +  (80|40|20)      0.7742 + 11.4286
+ 12.3 Ohm with 0.04% error  12.3048 using    8|(4+2+1)  +  (40+20)|10      3.7333 +  8.5714
+ 12.4 Ohm with 0.00% error  12.4000 using       (8|2)+(4|1)  +  10         2.4000 + 10.0000
+ 12.5 Ohm with 0.01% error  12.5018 using    (8|1)  +  (80+10)|40|20       0.8889 + 11.6129
+ 12.6 Ohm with 0.00% error  12.6000 using         (8|2)+1  +  10           2.6000 + 10.0000
+ 12.7 Ohm with 0.11% error  12.7143 using      4+2+1  +  (40|20|10)        7.0000 +  5.7143
+ 12.8 Ohm with 0.00% error  12.8000 using         (4|1)+2  +  10           2.8000 + 10.0000
+ 12.9 Ohm with 0.12% error  12.9158 using  (8|2)+4+1  +  (80+40)|20|10     6.6000 +  6.3158
+ 13.0 Ohm with 0.00% error  13.0000 using             8+4+1                  13.0000   
+ 13.1 Ohm with 0.16% error  13.1212 using      1  +  80|(40+10)|20         1.0000 + 12.1212
+ 13.2 Ohm with 0.00% error  13.2000 using      8+4+2+1  |  80+20+10       15.0000 | 110.0000
+ 13.3 Ohm with 0.12% error  13.3158 using    4+2+1  +  (80+40)|20|10       7.0000 +  6.3158
+ 13.4 Ohm with 0.06% error  13.4074 using     4+2  +  (80+20)|40|10        6.0000 +  7.4074
+ 13.5 Ohm with 0.03% error  13.5043 using     (8|2|1)+4  +  (80|10)        4.6154 +  8.8889
+ 13.6 Ohm with 0.00% error  13.6000 using       (8+1)|(4+2)  +  10         3.6000 + 10.0000
+ 13.7 Ohm with 0.05% error  13.7063 using    (8|2|1)+4  +  (80+20)|10      4.6154 +  9.0909
+ 13.8 Ohm with 0.21% error  13.8286 using   (8|2)+(4|1)  +  (80|40|20)     2.4000 + 11.4286
+ 13.9 Ohm with 0.03% error  13.9048 using      (4|2|1)  +  (40|20)         0.5714 + 13.3333
+ 14.0 Ohm with 0.00% error  14.0000 using             8+4+2                  14.0000   
+ 14.1 Ohm with 0.05% error  14.1075 using     8|(4+2)|1  +  (40|20)        0.7742 + 13.3333
+ 14.2 Ohm with 0.09% error  14.2129 using   (8|2)+1  +  (80+10)|40|20      2.6000 + 11.6129
+ 14.3 Ohm with 0.02% error  14.3030 using   8|(2+1)  +  80|(40+10)|20      2.1818 + 12.1212
+ 14.4 Ohm with 0.05% error  14.4074 using    4+2+1  +  (80+20)|40|10       7.0000 +  7.4074
+ 14.5 Ohm with 0.01% error  14.5018 using   (8|1)+2  +  (80+10)|40|20      2.8889 + 11.6129
+ 14.6 Ohm with 0.00% error  14.6000 using     (8|2)+4+1  +  (40|10)        6.6000 +  8.0000
+ 14.7 Ohm with 0.10% error  14.7143 using       8+1  +  (40|20|10)         9.0000 +  5.7143
+ 14.8 Ohm with 0.13% error  14.8190 using    (8|4|2|1)  +  (40+10)|20      0.5333 + 14.2857
+ 14.9 Ohm with 0.01% error  14.9011 using     (8|2|1)  +  (40+10)|20       0.6154 + 14.2857
+ 15.0 Ohm with 0.00% error  15.0000 using            8+4+2+1                 15.0000   
+ 15.1 Ohm with 0.10% error  15.1158 using   8+(4|1)  +  (80+40)|20|10      8.8000 +  6.3158
+ 15.2 Ohm with 0.06% error  15.2088 using     (8+4)|1  +  (40+10)|20       0.9231 + 14.2857
+ 15.3 Ohm with 0.10% error  15.3158 using     8+1  +  (80+40)|20|10        9.0000 +  6.3158
+ 15.4 Ohm with 0.05% error  15.4074 using      8  +  (80+20)|40|10         8.0000 +  7.4074
+ 15.5 Ohm with 0.10% error  15.5152 using      8|(2+1)  +  (40|20)         2.1818 + 13.3333
+ 15.6 Ohm with 0.00% error  15.6000 using         (8|2)+4  +  10           5.6000 + 10.0000
+ 15.7 Ohm with 0.09% error  15.7143 using     (4+1)|2  +  (40+10)|20       1.4286 + 14.2857
+ 15.8 Ohm with 0.19% error  15.8308 using    (8|2)+4+1  +  (80+40)|10      6.6000 +  9.2308
+ 15.9 Ohm with 0.14% error  15.9221 using     (8+1)|2  +  (40+10)|20       1.6364 + 14.2857
+ 16.0 Ohm with 0.00% error  16.0000 using            (80|20)                 16.0000   
+ 16.1 Ohm with 0.02% error  16.1026 using      (8+1)|4  +  (40|20)         2.7692 + 13.3333
+ 16.2 Ohm with 0.05% error  16.2074 using   8+(4|1)  +  (80+20)|40|10      8.8000 +  7.4074
+ 16.3 Ohm with 0.08% error  16.3134 using  8+(4|2|1)  +  80|(40+20)|10     8.5714 +  7.7419
+ 16.4 Ohm with 0.05% error  16.4074 using     8+1  +  (80+20)|40|10        9.0000 +  7.4074
+ 16.5 Ohm with 0.01% error  16.5018 using   (8|1)+4  +  (80+10)|40|20      4.8889 + 11.6129
+ 16.6 Ohm with 0.00% error  16.6000 using        (8|2)+4+1  +  10          6.6000 + 10.0000
+ 16.7 Ohm with 0.09% error  16.7143 using      8+2+1  +  (40|20|10)       11.0000 +  5.7143
+ 16.8 Ohm with 0.00% error  16.8000 using       (4|1)  +  (80|20)          0.8000 + 16.0000
+ 16.9 Ohm with 0.05% error  16.9091 using      (8+2)|1  +  (80|20)         0.9091 + 16.0000
+ 17.0 Ohm with 0.00% error  17.0000 using         1  +  (80|20)            1.0000 + 16.0000
+ 17.1 Ohm with 0.03% error  17.1044 using    (8+2)|4|1  +  (80+10)|20      0.7407 + 16.3636
+ 17.2 Ohm with 0.07% error  17.2121 using     8|(4+1)|2  +  (80|20)        1.2121 + 16.0000
+ 17.3 Ohm with 0.09% error  17.3158 using    8+2+1  +  (80+40)|20|10      11.0000 +  6.3158
+ 17.4 Ohm with 0.04% error  17.4074 using     8+2  +  (80+20)|40|10       10.0000 +  7.4074
+ 17.5 Ohm with 0.04% error  17.5065 using     (8|4|2)  +  (80+10)|20       1.1429 + 16.3636
+ 17.6 Ohm with 0.00% error  17.6000 using       (8|2)  +  (80|20)          1.6000 + 16.0000
+ 17.7 Ohm with 0.08% error  17.7143 using     (4|2|1)  +  (80+40)|20       0.5714 + 17.1429
+ 17.8 Ohm with 0.01% error  17.8022 using    8+(4|2|1)  +  (80+40)|10      8.5714 +  9.2308
+ 17.9 Ohm with 0.03% error  17.9048 using   (4|2|1)  +  (80+40+10)|20      0.5714 + 17.3333
+ 18.0 Ohm with 0.00% error  18.0000 using    (2|1)  +  (80+40+10)|20       0.6667 + 17.3333
+ 18.1 Ohm with 0.04% error  18.1075 using  8|(4+2)|1  +  (80+40+10)|20     0.7742 + 17.3333
+ 18.2 Ohm with 0.04% error  18.2074 using  8+(4|1)+2  +  (80+20)|40|10    10.8000 +  7.4074
+ 18.3 Ohm with 0.02% error  18.3041 using    (8+1)|4|2  +  (80+40)|20      1.1613 + 17.1429
+ 18.4 Ohm with 0.00% error  18.4000 using    (8|2)+(4|1)  +  (80|20)       2.4000 + 16.0000
+ 18.5 Ohm with 0.01% error  18.5018 using  (8|1)+4+2  +  (80+10)|40|20     6.8889 + 11.6129
+ 18.6 Ohm with 0.00% error  18.6000 using      (8|2)+1  +  (80|20)         2.6000 + 16.0000
+ 18.7 Ohm with 0.08% error  18.7143 using      8+4+1  +  (40|20|10)       13.0000 +  5.7143
+ 18.8 Ohm with 0.00% error  18.8000 using      (4|1)+2  +  (80|20)         2.8000 + 16.0000
+ 18.9 Ohm with 0.01% error  18.9011 using    (8|2|1)+4  +  (40+10)|20      4.6154 + 14.2857
+ 19.0 Ohm with 0.00% error  19.0000 using        2+1  +  (80|20)           3.0000 + 16.0000
+ 19.1 Ohm with 0.09% error  19.1176 using     4+1  +  80|40|(20+10)        5.0000 + 14.1176
+ 19.2 Ohm with 0.11% error  19.2208 using     (8+2)|4  +  (80+10)|20       2.8571 + 16.3636
+ 19.3 Ohm with 0.08% error  19.3158 using    8+4+1  +  (80+40)|20|10      13.0000 +  6.3158
+ 19.4 Ohm with 0.04% error  19.4074 using     8+4  +  (80+20)|40|10       12.0000 +  7.4074
+ 19.5 Ohm with 0.08% error  19.5152 using   8|(2+1)  +  (80+40+10)|20      2.1818 + 17.3333
+ 19.6 Ohm with 0.00% error  19.6000 using    (8+1)|(4+2)  +  (80|20)       3.6000 + 16.0000
+ 19.7 Ohm with 0.07% error  19.7143 using      8+4+2  +  (40|20|10)       14.0000 +  5.7143
+ 19.8 Ohm with 0.05% error  19.8095 using      (8|4)  +  (80+40)|20        2.6667 + 17.1429
+ 19.9 Ohm with 0.06% error  19.9121 using     (8+1)|4  +  (80+40)|20       2.7692 + 17.1429
+ 20.0 Ohm with 0.00% error  20.0000 using               20                   20.0000   
+ 20.1 Ohm with 0.01% error  20.1026 using   (8+1)|4  +  (80+40+10)|20      2.7692 + 17.3333
+ 20.2 Ohm with 0.10% error  20.2198 using     8|(4+1)  +  (80+40)|20       3.0769 + 17.1429
+ 20.3 Ohm with 0.08% error  20.3158 using    8+4+2  +  (80+40)|20|10      14.0000 +  6.3158
+ 20.4 Ohm with 0.04% error  20.4074 using    8+4+1  +  (80+20)|40|10      13.0000 +  7.4074
+ 20.5 Ohm with 0.16% error  20.5333 using        (8|4|2|1)  +  20          0.5333 + 20.0000
+ 20.6 Ohm with 0.06% error  20.6129 using     8+1  +  (80+10)|40|20        9.0000 + 11.6129
+ 20.7 Ohm with 0.07% error  20.7143 using     8+4+2+1  +  (40|20|10)      15.0000 +  5.7143
+ 20.8 Ohm with 0.00% error  20.8000 using          (4|1)  +  20            0.8000 + 20.0000
+ 20.9 Ohm with 0.04% error  20.9091 using         (8+2)|1  +  20           0.9091 + 20.0000
+ 21.0 Ohm with 0.00% error  21.0000 using            1  +  20              1.0000 + 20.0000
+ 21.1 Ohm with 0.08% error  21.1176 using    4+2+1  +  80|40|(20+10)       7.0000 + 14.1176
+ 21.2 Ohm with 0.06% error  21.2121 using        8|(4+1)|2  +  20          1.2121 + 20.0000
+ 21.3 Ohm with 0.07% error  21.3158 using   8+4+2+1  +  (80+40)|20|10     15.0000 +  6.3158
+ 21.4 Ohm with 0.03% error  21.4074 using    8+4+2  +  (80+20)|40|10      14.0000 +  7.4074
+ 21.5 Ohm with 0.26% error  21.5556 using     8+4+(2|1)  +  (80|10)       12.6667 +  8.8889
+ 21.6 Ohm with 0.00% error  21.6000 using          (8|2)  +  20            1.6000 + 20.0000
+ 21.7 Ohm with 0.07% error  21.7143 using         (8+4)|2  +  20           1.7143 + 20.0000
+ 21.8 Ohm with 0.04% error  21.8095 using     (8|4)+2  +  (80+40)|20       4.6667 + 17.1429
+ 21.9 Ohm with 0.02% error  21.9048 using     8+(4|2|1)  +  (40|20)        8.5714 + 13.3333
+ 22.0 Ohm with 0.00% error  22.0000 using   (4|2|1)  +  (80|40|20)+10      0.5714 + 21.4286
+ 22.1 Ohm with 0.08% error  22.1176 using      8  +  80|40|(20+10)         8.0000 + 14.1176
+ 22.2 Ohm with 0.01% error  22.2028 using  8|(4+2)|1  +  (80|40|20)+10     0.7742 + 21.4286
+ 22.3 Ohm with 0.08% error  22.3175 using    (8|1)  +  (80|40|20)+10       0.8889 + 21.4286
+ 22.4 Ohm with 0.00% error  22.4000 using       (8|2)+(4|1)  +  20         2.4000 + 20.0000
+ 22.5 Ohm with 0.20% error  22.5455 using     (8|4|1)  +  80|(20+10)       0.7273 + 21.8182
+ 22.6 Ohm with 0.00% error  22.6000 using         (8|2)+1  +  20           2.6000 + 20.0000
+ 22.7 Ohm with 0.03% error  22.7071 using      (8|1)  +  80|(20+10)        0.8889 + 21.8182
+ 22.8 Ohm with 0.00% error  22.8000 using         (4|1)+2  +  20           2.8000 + 20.0000
+ 22.9 Ohm with 0.08% error  22.9176 using   8+(4|1)  +  80|40|(20+10)      8.8000 + 14.1176
+ 23.0 Ohm with 0.00% error  23.0000 using           2+1  +  20             3.0000 + 20.0000
+ 23.1 Ohm with 0.05% error  23.1111 using   (8|1)  +  (80|10)+(40|20)      0.8889 + 22.2222
+ 23.2 Ohm with 0.10% error  23.2222 using     1  +  (80|10)+(40|20)        1.0000 + 22.2222
+ 23.3 Ohm with 0.14% error  23.3333 using           (40|20)+10               23.3333   
+ 23.4 Ohm with 0.08% error  23.4182 using      (8|2)  +  80|(20+10)        1.6000 + 21.8182
+ 23.5 Ohm with 0.14% error  23.5325 using     (8+4)|2  +  80|(20+10)       1.7143 + 21.8182
+ 23.6 Ohm with 0.00% error  23.6000 using       (8+1)|(4+2)  +  20         3.6000 + 20.0000
+ 23.7 Ohm with 0.14% error  23.7333 using        8|(4+2+1)  +  20          3.7333 + 20.0000
+ 23.8 Ohm with 0.08% error  23.8182 using        2  +  80|(20+10)          2.0000 + 21.8182
+ 23.9 Ohm with 0.02% error  23.9048 using     (4|2|1)  +  (40|20)+10       0.5714 + 23.3333
+ 24.0 Ohm with 0.00% error  24.0000 using        (80|20)+(40|10)             24.0000   
+ 24.1 Ohm with 0.03% error  24.1075 using    8|(4+2)|1  +  (40|20)+10      0.7742 + 23.3333
+ 24.2 Ohm with 0.08% error  24.2182 using   (8|2)+(4|1)  +  80|(20+10)     2.4000 + 21.8182
+ 24.3 Ohm with 0.07% error  24.3175 using   (8|1)+2  +  (80|40|20)+10      2.8889 + 21.4286
+ 24.4 Ohm with 0.02% error  24.4040 using  8|(2+1)  +  (80|10)+(40|20)     2.1818 + 22.2222
+ 24.5 Ohm with 0.02% error  24.5055 using   8|(4+1)  +  (80|40|20)+10      3.0769 + 21.4286
+ 24.6 Ohm with 0.05% error  24.6129 using    8+4+1  +  (80+10)|40|20      13.0000 + 11.6129
+ 24.7 Ohm with 0.03% error  24.7071 using     (8|1)+2  +  80|(20+10)       2.8889 + 21.8182
+ 24.8 Ohm with 0.00% error  24.8000 using   (4|1)  +  (80|20)+(40|10)      0.8000 + 24.0000
+ 24.9 Ohm with 0.04% error  24.9091 using  (8+2)|1  +  (80|20)+(40|10)     0.9091 + 24.0000
+ 25.0 Ohm with 0.00% error  25.0000 using     1  +  (80|20)+(40|10)        1.0000 + 24.0000
+ 25.1 Ohm with 0.04% error  25.1111 using  (8|1)+2  +  (80|10)+(40|20)     2.8889 + 22.2222
+ 25.2 Ohm with 0.05% error  25.2121 using 8|(4+1)|2  +  (80|20)+(40|10)    1.2121 + 24.0000
+ 25.3 Ohm with 0.13% error  25.3333 using   (4|2)  +  (80|20)+(40|10)      1.3333 + 24.0000
+ 25.4 Ohm with 0.05% error  25.4118 using 8|4|(2+1)  +  (80|20)+(40|10)    1.4118 + 24.0000
+ 25.5 Ohm with 0.06% error  25.5152 using     8|(2+1)  +  (40|20)+10       2.1818 + 23.3333
+ 25.6 Ohm with 0.00% error  25.6000 using   (8|2)  +  (80|20)+(40|10)      1.6000 + 24.0000
+ 25.7 Ohm with 0.06% error  25.7143 using  (8+4)|2  +  (80|20)+(40|10)     1.7143 + 24.0000
+ 25.8 Ohm with 0.04% error  25.8095 using     8+(2|1)  +  (80+40)|20       8.6667 + 17.1429
+ 25.9 Ohm with 0.02% error  25.9048 using  8+(4|2|1)  +  (80+40+10)|20     8.5714 + 17.3333
+ 26.0 Ohm with 0.00% error  26.0000 using           (80|20)+10               26.0000   
+ 26.1 Ohm with 0.01% error  26.1026 using     (8+1)|4  +  (40|20)+10       2.7692 + 23.3333
+ 26.2 Ohm with 0.08% error  26.2222 using (8|1)+(4|2)  +  (80|20)+(40|10)   2.2222 + 24.0000
+ 26.3 Ohm with 0.07% error  26.3175 using   (8|1)+4  +  (80|40|20)+10      4.8889 + 21.4286
+ 26.4 Ohm with 0.00% error  26.4000 using (8|2)+(4|1)  +  (80|20)+(40|10)   2.4000 + 24.0000
+ 26.5 Ohm with 0.13% error  26.5333 using    (8|4|2|1)  +  (80|20)+10      0.5333 + 26.0000
+ 26.6 Ohm with 0.00% error  26.6000 using  (8|2)+1  +  (80|20)+(40|10)     2.6000 + 24.0000
+ 26.7 Ohm with 0.03% error  26.7071 using     (8|1)+4  +  80|(20+10)       4.8889 + 21.8182
+ 26.8 Ohm with 0.00% error  26.8000 using      (4|1)  +  (80|20)+10        0.8000 + 26.0000
+ 26.9 Ohm with 0.03% error  26.9091 using     (8+2)|1  +  (80|20)+10       0.9091 + 26.0000
+ 27.0 Ohm with 0.00% error  27.0000 using        1  +  (80|20)+10          1.0000 + 26.0000
+ 27.1 Ohm with 0.04% error  27.1111 using  (8|1)+4  +  (80|10)+(40|20)     4.8889 + 22.2222
+ 27.2 Ohm with 0.00% error  27.2000 using     (8|4|2|1)  +  (80|40)        0.5333 + 26.6667
+ 27.3 Ohm with 0.12% error  27.3333 using       (2|1)  +  (80|40)          0.6667 + 26.6667
+ 27.4 Ohm with 0.03% error  27.4074 using     (8+2)|4|1  +  (80|40)        0.7407 + 26.6667
+ 27.5 Ohm with 0.09% error  27.5238 using      (4+2)|1  +  (80|40)         0.8571 + 26.6667
+ 27.6 Ohm with 0.00% error  27.6000 using     (8+4+2)|1  +  (80|40)        0.9333 + 26.6667
+ 27.7 Ohm with 0.05% error  27.7143 using     (8+4)|2  +  (80|20)+10       1.7143 + 26.0000
+ 27.8 Ohm with 0.02% error  27.8061 using  (8|4|2|1)  +  (80|40|10)+20     0.5333 + 27.2727
+ 27.9 Ohm with 0.02% error  27.9043 using  (8+4)|2|1  +  (80|40|10)+20     0.6316 + 27.2727
+ 28.0 Ohm with 0.00% error  28.0000 using           (40|10)+20               28.0000   
+ 28.1 Ohm with 0.06% error  28.1176 using    8+4+2  +  80|40|(20+10)      14.0000 + 14.1176
+ 28.2 Ohm with 0.02% error  28.2061 using  (8+4+2)|1  +  (80|40|10)+20     0.9333 + 27.2727
+ 28.3 Ohm with 0.01% error  28.3030 using      (8+1)|2  +  (80|40)         1.6364 + 26.6667
+ 28.4 Ohm with 0.00% error  28.4000 using     (8+4+1)|2  +  (80|40)        1.7333 + 26.6667
+ 28.5 Ohm with 0.12% error  28.5333 using    (8|4|2|1)  +  (40|10)+20      0.5333 + 28.0000
+ 28.6 Ohm with 0.00% error  28.6000 using     (8|2)+1  +  (80|20)+10       2.6000 + 26.0000
+ 28.7 Ohm with 0.00% error  28.7013 using   (4+1)|2  +  (80|40|10)+20      1.4286 + 27.2727
+ 28.8 Ohm with 0.00% error  28.8000 using      (4|1)  +  (40|10)+20        0.8000 + 28.0000
+ 28.9 Ohm with 0.02% error  28.9044 using    8|(4+1)|2  +  (80+10)|40      1.2121 + 27.6923
+ 29.0 Ohm with 0.00% error  29.0000 using        1  +  (40|10)+20          1.0000 + 28.0000
+ 29.1 Ohm with 0.01% error  29.1041 using    8|4|(2+1)  +  (80+10)|40      1.4118 + 27.6923
+ 29.2 Ohm with 0.01% error  29.2030 using    (8+4)|2|1  +  (80+20)|40      0.6316 + 28.5714
+ 29.3 Ohm with 0.04% error  29.3122 using    (8+2)|4|1  +  (80+20)|40      0.7407 + 28.5714
+ 29.4 Ohm with 0.02% error  29.4066 using     (8+4)|2  +  (80+10)|40       1.7143 + 27.6923
+ 29.5 Ohm with 0.01% error  29.5043 using     (8|2|1)  +  (80|10)+20       0.6154 + 28.8889
+ 29.6 Ohm with 0.00% error  29.6000 using      (8|2)  +  (40|10)+20        1.6000 + 28.0000
+ 29.7 Ohm with 0.05% error  29.7143 using     (8|4|2)  +  (80+20)|40       1.1429 + 28.5714
+ 29.8 Ohm with 0.03% error  29.8095 using    8+4+(2|1)  +  (80+40)|20     12.6667 + 17.1429
+ 29.9 Ohm with 0.02% error  29.9048 using   (4|2|1)  +  (80+20+10)|40      0.5714 + 29.3333
+ 30.0 Ohm with 0.00% error  30.0000 using             20+10                  30.0000   
+ 30.1 Ohm with 0.00% error  30.1010 using    8|(4+1)|2  +  (80|10)+20      1.2121 + 28.8889
+ 30.2 Ohm with 0.02% error  30.2061 using  (8+2+1)|4  +  (80|40|10)+20     2.9333 + 27.2727
+ 30.3 Ohm with 0.00% error  30.3007 using    8|4|(2+1)  +  (80|10)+20      1.4118 + 28.8889
+ 30.4 Ohm with 0.00% error  30.4000 using   (8|2)+(4|1)  +  (40|10)+20     2.4000 + 28.0000
+ 30.5 Ohm with 0.08% error  30.5253 using     (8+1)|2  +  (80|10)+20       1.6364 + 28.8889
+ 30.6 Ohm with 0.00% error  30.6000 using     (8|2)+1  +  (40|10)+20       2.6000 + 28.0000
+ 30.7 Ohm with 0.00% error  30.7013 using   8|(4+2)  +  (80|40|10)+20      3.4286 + 27.2727
+ 30.8 Ohm with 0.00% error  30.8000 using        (4|1)  +  20+10           0.8000 + 30.0000
+ 30.9 Ohm with 0.02% error  30.9048 using     (4|2)+1  +  (80+20)|40       2.3333 + 28.5714
+ 31.0 Ohm with 0.00% error  31.0000 using          1  +  20+10             1.0000 + 30.0000
+ 31.1 Ohm with 0.04% error  31.1111 using   (8|1)+(4|2)  +  (80|10)+20     2.2222 + 28.8889
+ 31.2 Ohm with 0.04% error  31.2121 using      8|(4+1)|2  +  20+10         1.2121 + 30.0000
+ 31.3 Ohm with 0.01% error  31.3026 using    (8|4|2|1)  +  80|(40+10)      0.5333 + 30.7692
+ 31.4 Ohm with 0.00% error  31.4008 using    (8+4)|2|1  +  80|(40+10)      0.6316 + 30.7692
+ 31.5 Ohm with 0.02% error  31.5048 using    (8+2+1)|4  +  (80+20)|40      2.9333 + 28.5714
+ 31.6 Ohm with 0.00% error  31.6000 using        (8|2)  +  20+10           1.6000 + 30.0000
+ 31.7 Ohm with 0.01% error  31.7026 using    (8+4+2)|1  +  80|(40+10)      0.9333 + 30.7692
+ 31.8 Ohm with 0.06% error  31.8182 using       8+2  +  80|(20+10)        10.0000 + 21.8182
+ 31.9 Ohm with 0.01% error  31.9048 using   (8|4)+(2|1)  +  (80+20)|40     3.3333 + 28.5714
+ 32.0 Ohm with 0.00% error  32.0000 using          2  +  20+10             2.0000 + 30.0000
+ 32.1 Ohm with 0.01% error  32.1026 using      (4|2)  +  80|(40+10)        1.3333 + 30.7692
+ 32.2 Ohm with 0.07% error  32.2222 using     (8|1)+(4|2)  +  20+10        2.2222 + 30.0000
+ 32.3 Ohm with 0.01% error  32.3048 using    8|(4+2+1)  +  (80+20)|40      3.7333 + 28.5714
+ 32.4 Ohm with 0.00% error  32.4000 using     (8|2)+(4|1)  +  20+10        2.4000 + 30.0000
+ 32.5 Ohm with 0.01% error  32.5026 using    (8+4+1)|2  +  80|(40+10)      1.7333 + 30.7692
+ 32.6 Ohm with 0.00% error  32.6000 using       (8|2)+1  +  20+10          2.6000 + 30.0000
+ 32.7 Ohm with 0.08% error  32.7273 using      (8|4|1)+2  +  20+10         2.7273 + 30.0000
+ 32.8 Ohm with 0.00% error  32.8000 using       (4|1)+2  +  20+10          2.8000 + 30.0000
+ 32.9 Ohm with 0.04% error  32.9121 using    (8|4|2)+1  +  80|(40+10)      2.1429 + 30.7692
+ 33.0 Ohm with 0.00% error  33.0000 using         2+1  +  20+10            3.0000 + 30.0000
+ 33.1 Ohm with 0.01% error  33.1026 using     (4|2)+1  +  80|(40+10)       2.3333 + 30.7692
+ 33.2 Ohm with 0.07% error  33.2222 using   8+2+1  +  (80|10)+(40|20)     11.0000 + 22.2222
+ 33.3 Ohm with 0.10% error  33.3333 using        (80|40)+(20|10)             33.3333   
+ 33.4 Ohm with 0.09% error  33.4286 using       8|(4+2)  +  20+10          3.4286 + 30.0000
+ 33.5 Ohm with 0.01% error  33.5043 using    (8|2|1)+4  +  (80|10)+20      4.6154 + 28.8889
+ 33.6 Ohm with 0.00% error  33.6000 using     (8+1)|(4+2)  +  20+10        3.6000 + 30.0000
+ 33.7 Ohm with 0.01% error  33.7026 using    (8+2+1)|4  +  80|(40+10)      2.9333 + 30.7692
+ 33.8 Ohm with 0.05% error  33.8182 using       8+4  +  80|(20+10)        12.0000 + 21.8182
+ 33.9 Ohm with 0.01% error  33.9048 using  (4|2|1)  +  (80|40)+(20|10)     0.5714 + 33.3333
+ 34.0 Ohm with 0.00% error  34.0000 using   (2|1)  +  (80|40)+(20|10)      0.6667 + 33.3333
+ 34.1 Ohm with 0.01% error  34.1026 using   (8|4)+(2|1)  +  80|(40+10)     3.3333 + 30.7692
+ 34.2 Ohm with 0.06% error  34.2222 using   (8|1)  +  (80|40)+(20|10)      0.8889 + 33.3333
+ 34.3 Ohm with 0.10% error  34.3333 using     1  +  (80|40)+(20|10)        1.0000 + 33.3333
+ 34.4 Ohm with 0.08% error  34.4286 using    8+4+1  +  (80|40|20)+10      13.0000 + 21.4286
+ 34.5 Ohm with 0.01% error  34.5026 using    8|(4+2+1)  +  80|(40+10)      3.7333 + 30.7692
+ 34.6 Ohm with 0.00% error  34.6000 using    (8|2)+4+1  +  (40|10)+20      6.6000 + 28.0000
+ 34.7 Ohm with 0.13% error  34.7451 using 8|4|(2+1)  +  (80|40)+(20|10)    1.4118 + 33.3333
+ 34.8 Ohm with 0.00% error  34.8000 using     8+(4|1)  +  (80|20)+10       8.8000 + 26.0000
+ 34.9 Ohm with 0.00% error  34.9011 using     (8|2|1)  +  80|(40+20)       0.6154 + 34.2857
+ 35.0 Ohm with 0.00% error  35.0000 using         4+1  +  20+10            5.0000 + 30.0000
+ 35.1 Ohm with 0.12% error  35.1429 using     (4+2)|1  +  80|(40+20)       0.8571 + 34.2857
+ 35.2 Ohm with 0.02% error  35.2088 using     (8+4)|1  +  80|(40+20)       0.9231 + 34.2857
+ 35.3 Ohm with 0.09% error  35.3333 using     2  +  (80|40)+(20|10)        2.0000 + 33.3333
+ 35.4 Ohm with 0.08% error  35.4286 using     (8|4|2)  +  80|(40+20)       1.1429 + 34.2857
+ 35.5 Ohm with 0.04% error  35.5152 using  8|(2+1)  +  (80|40)+(20|10)     2.1818 + 33.3333
+ 35.6 Ohm with 0.00% error  35.6000 using       (8|2)+4  +  20+10          5.6000 + 30.0000
+ 35.7 Ohm with 0.04% error  35.7143 using     (4+1)|2  +  80|(40+20)       1.4286 + 34.2857
+ 35.8 Ohm with 0.05% error  35.8182 using      8+4+2  +  80|(20+10)       14.0000 + 21.8182
+ 35.9 Ohm with 0.06% error  35.9221 using     (8+1)|2  +  80|(40+20)       1.6364 + 34.2857
+ 36.0 Ohm with 0.00% error  36.0000 using        (80+10)|(40+20)             36.0000   
+ 36.1 Ohm with 0.01% error  36.1026 using  (8+1)|4  +  (80|40)+(20|10)     2.7692 + 33.3333
+ 36.2 Ohm with 0.06% error  36.2222 using  (8|1)+2  +  (80|40)+(20|10)     2.8889 + 33.3333
+ 36.3 Ohm with 0.09% error  36.3333 using    2+1  +  (80|40)+(20|10)       3.0000 + 33.3333
+ 36.4 Ohm with 0.03% error  36.4103 using  8|(4+1)  +  (80|40)+(20|10)     3.0769 + 33.3333
+ 36.5 Ohm with 0.02% error  36.5079 using   (8|1)+(4|2)  +  80|(40+20)     2.2222 + 34.2857
+ 36.6 Ohm with 0.00% error  36.6000 using      (8|2)+4+1  +  20+10         6.6000 + 30.0000
+ 36.7 Ohm with 0.07% error  36.7273 using  (8|4|1)  +  (80+10)|(40+20)     0.7273 + 36.0000
+ 36.8 Ohm with 0.00% error  36.8000 using   (4|1)  +  (80+10)|(40+20)      0.8000 + 36.0000
+ 36.9 Ohm with 0.02% error  36.9091 using  (8+2)|1  +  (80+10)|(40+20)     0.9091 + 36.0000
+ 37.0 Ohm with 0.00% error  37.0000 using     1  +  (80+10)|(40+20)        1.0000 + 36.0000
+ 37.1 Ohm with 0.12% error  37.1429 using  (8|4|2)  +  (80+10)|(40+20)     1.1429 + 36.0000
+ 37.2 Ohm with 0.00% error  37.2000 using    (8|4|2|1)  +  (80|40)+10      0.5333 + 36.6667
+ 37.3 Ohm with 0.09% error  37.3333 using         80|(40+20+10)              37.3333   
+ 37.4 Ohm with 0.02% error  37.4074 using    (8+2)|4|1  +  (80|40)+10      0.7407 + 36.6667
+ 37.5 Ohm with 0.06% error  37.5238 using     (4+2)|1  +  (80|40)+10       0.8571 + 36.6667
+ 37.6 Ohm with 0.00% error  37.6000 using    (8+4+2)|1  +  (80|40)+10      0.9333 + 36.6667
+ 37.7 Ohm with 0.04% error  37.7143 using  (8+4)|2  +  (80+10)|(40+20)     1.7143 + 36.0000
+ 37.8 Ohm with 0.03% error  37.8095 using     (8|4|2)  +  (80|40)+10       1.1429 + 36.6667
+ 37.9 Ohm with 0.01% error  37.9048 using   (4|2|1)  +  80|(40+20+10)      0.5714 + 37.3333
+ 38.0 Ohm with 0.00% error  38.0000 using    (2|1)  +  80|(40+20+10)       0.6667 + 37.3333
+ 38.1 Ohm with 0.02% error  38.1075 using  8|(4+2)|1  +  80|(40+20+10)     0.7742 + 37.3333
+ 38.2 Ohm with 0.06% error  38.2222 using    (8|1)  +  80|(40+20+10)       0.8889 + 37.3333
+ 38.3 Ohm with 0.01% error  38.3030 using     (8+1)|2  +  (80|40)+10       1.6364 + 36.6667
+ 38.4 Ohm with 0.00% error  38.4000 using    (8+4+1)|2  +  (80|40)+10      1.7333 + 36.6667
+ 38.5 Ohm with 0.12% error  38.5455 using  8|(4+1)|2  +  80|(40+20+10)     1.2121 + 37.3333
+ 38.6 Ohm with 0.00% error  38.6000 using  (8|2)+1  +  (80+10)|(40+20)     2.6000 + 36.0000
+ 38.7 Ohm with 0.07% error  38.7273 using (8|4|1)+2  +  (80+10)|(40+20)    2.7273 + 36.0000
+ 38.8 Ohm with 0.00% error  38.8000 using  (4|1)+2  +  (80+10)|(40+20)     2.8000 + 36.0000
+ 38.9 Ohm with 0.00% error  38.9011 using    (8|2|1)+4  +  80|(40+20)      4.6154 + 34.2857
+ 39.0 Ohm with 0.00% error  39.0000 using     (4|2)+1  +  (80|40)+10       2.3333 + 36.6667
+ 39.1 Ohm with 0.19% error  39.1746 using     (8|1)+4  +  80|(40+20)       4.8889 + 34.2857
+ 39.2 Ohm with 0.06% error  39.2222 using    8+(4|2)+1  +  (80|10)+20     10.3333 + 28.8889
+ 39.3 Ohm with 0.08% error  39.3333 using      2  +  80|(40+20+10)         2.0000 + 37.3333
+ 39.4 Ohm with 0.07% error  39.4286 using  8|(4+2)  +  (80+10)|(40+20)     3.4286 + 36.0000
+ 39.5 Ohm with 0.04% error  39.5152 using   8|(2+1)  +  80|(40+20+10)      2.1818 + 37.3333
+ 39.6 Ohm with 0.00% error  39.6000 using    (8+2+1)|4  +  (80|40)+10      2.9333 + 36.6667
+ 39.7 Ohm with 0.08% error  39.7333 using (8|2)+(4|1)  +  80|(40+20+10)    2.4000 + 37.3333
+ 39.8 Ohm with 0.22% error  39.8857 using     (8|2)+4  +  80|(40+20)       5.6000 + 34.2857
+ 39.9 Ohm with 0.08% error  39.9333 using   (8|2)+1  +  80|(40+20+10)      2.6000 + 37.3333
+ 40.0 Ohm with 0.00% error  40.0000 using               40                   40.0000   
+ 40.1 Ohm with 0.01% error  40.1026 using   (8+1)|4  +  80|(40+20+10)      2.7692 + 37.3333
+ 40.2 Ohm with 0.06% error  40.2222 using   (8|1)+2  +  80|(40+20+10)      2.8889 + 37.3333
+ 40.3 Ohm with 0.08% error  40.3333 using     2+1  +  80|(40+20+10)        3.0000 + 37.3333
+ 40.4 Ohm with 0.00% error  40.4000 using    8|(4+2+1)  +  (80|40)+10      3.7333 + 36.6667
+ 40.5 Ohm with 0.08% error  40.5333 using        (8|4|2|1)  +  40          0.5333 + 40.0000
+ 40.6 Ohm with 0.04% error  40.6154 using         (8|2|1)  +  40           0.6154 + 40.0000
+ 40.7 Ohm with 0.07% error  40.7273 using         (8|4|1)  +  40           0.7273 + 40.0000
+ 40.8 Ohm with 0.00% error  40.8000 using          (4|1)  +  40            0.8000 + 40.0000
+ 40.9 Ohm with 0.02% error  40.9091 using         (8+2)|1  +  40           0.9091 + 40.0000
+ 41.0 Ohm with 0.00% error  41.0000 using            1  +  40              1.0000 + 40.0000
+ 41.1 Ohm with 0.01% error  41.1026 using    8+(4|2)+1  +  80|(40+10)     10.3333 + 30.7692
+ 41.2 Ohm with 0.03% error  41.2121 using        8|(4+1)|2  +  40          1.2121 + 40.0000
+ 41.3 Ohm with 0.08% error  41.3333 using          (4|2)  +  40            1.3333 + 40.0000
+ 41.4 Ohm with 0.03% error  41.4118 using        8|4|(2+1)  +  40          1.4118 + 40.0000
+ 41.5 Ohm with 0.13% error  41.5556 using     (8|1)+4  +  (80|40)+10       4.8889 + 36.6667
+ 41.6 Ohm with 0.00% error  41.6000 using          (8|2)  +  40            1.6000 + 40.0000
+ 41.7 Ohm with 0.03% error  41.7143 using         (8+4)|2  +  40           1.7143 + 40.0000
+ 41.8 Ohm with 0.21% error  41.8889 using      8+4+1  +  (80|10)+20       13.0000 + 28.8889
+ 41.9 Ohm with 0.01% error  41.9048 using 8+(4|2|1)  +  (80|40)+(20|10)    8.5714 + 33.3333
+ 42.0 Ohm with 0.00% error  42.0000 using            2  +  40              2.0000 + 40.0000
+ 42.1 Ohm with 0.08% error  42.1333 using  8+(4|1)  +  (80|40)+(20|10)     8.8000 + 33.3333
+ 42.2 Ohm with 0.05% error  42.2222 using       (8|1)+(4|2)  +  40         2.2222 + 40.0000
+ 42.3 Ohm with 0.08% error  42.3333 using         (4|2)+1  +  40           2.3333 + 40.0000
+ 42.4 Ohm with 0.00% error  42.4000 using       (8|2)+(4|1)  +  40         2.4000 + 40.0000
+ 42.5 Ohm with 0.17% error  42.5714 using      8+4+2  +  (80+20)|40       14.0000 + 28.5714
+ 42.6 Ohm with 0.00% error  42.6000 using         (8|2)+1  +  40           2.6000 + 40.0000
+ 42.7 Ohm with 0.06% error  42.7273 using        (8|4|1)+2  +  40          2.7273 + 40.0000
+ 42.8 Ohm with 0.00% error  42.8000 using         (4|1)+2  +  40           2.8000 + 40.0000
+ 42.9 Ohm with 0.08% error  42.9333 using        (8+2+1)|4  +  40          2.9333 + 40.0000
+ 43.0 Ohm with 0.00% error  43.0000 using           2+1  +  40             3.0000 + 40.0000
+ 43.2 Ohm with 0.15% error  43.2667 using    (8|2)+4+1  +  (80|40)+10      6.6000 + 36.6667
+ 43.3 Ohm with 0.08% error  43.3333 using       (8|4)+(2|1)  +  40         3.3333 + 40.0000
+ 43.4 Ohm with 0.07% error  43.4286 using         8|(4+2)  +  40           3.4286 + 40.0000
+ 43.5 Ohm with 0.13% error  43.5556 using    (8|1)+4+2  +  (80|40)+10      6.8889 + 36.6667
+ 43.6 Ohm with 0.00% error  43.6000 using       (8+1)|(4+2)  +  40         3.6000 + 40.0000
+ 43.7 Ohm with 0.08% error  43.7333 using        8|(4+2+1)  +  40          3.7333 + 40.0000
+ 43.8 Ohm with 0.20% error  43.8889 using     8+4+2+1  +  (80|10)+20      15.0000 + 28.8889
+ 43.9 Ohm with 0.08% error  43.9333 using  (8|2)+4+1  +  80|(40+20+10)     6.6000 + 37.3333
+ 44.0 Ohm with 0.00% error  44.0000 using            4  +  40              4.0000 + 40.0000
+ 44.1 Ohm with 0.08% error  44.1333 using 8+(4|1)+2  +  (80|40)+(20|10)   10.8000 + 33.3333
+ 44.2 Ohm with 0.05% error  44.2222 using  (8|1)+4+2  +  80|(40+20+10)     6.8889 + 37.3333
+ 44.3 Ohm with 0.08% error  44.3333 using    4+2+1  +  80|(40+20+10)       7.0000 + 37.3333
+ 44.5 Ohm with 0.16% error  44.5714 using 8+(4|2|1)  +  (80+10)|(40+20)    8.5714 + 36.0000
+ 44.6 Ohm with 0.03% error  44.6154 using        (8|2|1)+4  +  40          4.6154 + 40.0000
+ 44.7 Ohm with 0.15% error  44.7692 using      8+4+2  +  80|(40+10)       14.0000 + 30.7692
+ 44.8 Ohm with 0.00% error  44.8000 using  8+(4|1)  +  (80+10)|(40+20)     8.8000 + 36.0000
+ 45.0 Ohm with 0.00% error  45.0000 using           4+1  +  40             5.0000 + 40.0000
+ 45.2 Ohm with 0.08% error  45.2381 using    8+(4|2|1)  +  (80|40)+10      8.5714 + 36.6667
+ 45.3 Ohm with 0.07% error  45.3333 using      8  +  80|(40+20+10)         8.0000 + 37.3333
+ 45.4 Ohm with 0.15% error  45.4667 using     8+(4|1)  +  (80|40)+10       8.8000 + 36.6667
+ 45.6 Ohm with 0.00% error  45.6000 using         (8|2)+4  +  40           5.6000 + 40.0000
+ 45.7 Ohm with 0.15% error  45.7692 using     8+4+2+1  +  80|(40+10)      15.0000 + 30.7692
+ 45.9 Ohm with 0.01% error  45.9048 using  8+(4|2|1)  +  80|(40+20+10)     8.5714 + 37.3333
+ 46.0 Ohm with 0.00% error  46.0000 using           4+2  +  40             6.0000 + 40.0000
+ 46.1 Ohm with 0.07% error  46.1333 using   8+(4|1)  +  80|(40+20+10)      8.8000 + 37.3333
+ 46.2 Ohm with 0.19% error  46.2857 using       8+4  +  80|(40+20)        12.0000 + 34.2857
+ 46.3 Ohm with 0.07% error  46.3333 using     8+1  +  80|(40+20+10)        9.0000 + 37.3333
+ 46.6 Ohm with 0.00% error  46.6000 using        (8|2)+4+1  +  40          6.6000 + 40.0000
+ 46.7 Ohm with 0.05% error  46.7253 using   (4|2|1)  +  (80|20|10)+40      0.5714 + 46.1538
+ 46.8 Ohm with 0.00% error  46.8000 using 8+(4|1)+2  +  (80+10)|(40+20)   10.8000 + 36.0000
+ 46.9 Ohm with 0.06% error  46.9280 using  8|(4+2)|1  +  (80|20|10)+40     0.7742 + 46.1538
+ 47.0 Ohm with 0.00% error  47.0000 using          4+2+1  +  40            7.0000 + 40.0000
+ 47.1 Ohm with 0.11% error  47.1538 using      1  +  (80|20|10)+40         1.0000 + 46.1538
+ 47.2 Ohm with 0.00% error  47.2000 using    (8|4|2|1)  +  40+(20|10)      0.5333 + 46.6667
+ 47.3 Ohm with 0.03% error  47.3151 using  (8+1)|4|2  +  (80|20|10)+40     1.1613 + 46.1538
+ 47.4 Ohm with 0.02% error  47.4074 using    (8+2)|4|1  +  40+(20|10)      0.7407 + 46.6667
+ 47.5 Ohm with 0.05% error  47.5238 using     (4+2)|1  +  40+(20|10)       0.8571 + 46.6667
+ 47.6 Ohm with 0.00% error  47.6000 using    (8+4+2)|1  +  40+(20|10)      0.9333 + 46.6667
+ 47.7 Ohm with 0.11% error  47.7538 using    (8|2)  +  (80|20|10)+40       1.6000 + 46.1538
+ 47.8 Ohm with 0.02% error  47.8095 using     (8|4|2)  +  40+(20|10)       1.1429 + 46.6667
+ 48.0 Ohm with 0.00% error  48.0000 using      (4|2)  +  40+(20|10)        1.3333 + 46.6667
+ 48.1 Ohm with 0.07% error  48.1333 using  8+(4|1)+2  +  80|(40+20+10)    10.8000 + 37.3333
+ 48.2 Ohm with 0.14% error  48.2667 using      (8|2)  +  40+(20|10)        1.6000 + 46.6667
+ 48.3 Ohm with 0.01% error  48.3030 using     (8+1)|2  +  40+(20|10)       1.6364 + 46.6667
+ 48.4 Ohm with 0.00% error  48.4000 using    (8+4+1)|2  +  40+(20|10)      1.7333 + 46.6667
+ 48.5 Ohm with 0.11% error  48.5538 using (8|2)+(4|1)  +  (80|20|10)+40    2.4000 + 46.1538
+ 48.6 Ohm with 0.14% error  48.6667 using        2  +  40+(20|10)          2.0000 + 46.6667
+ 48.7 Ohm with 0.11% error  48.7538 using   (8|2)+1  +  (80|20|10)+40      2.6000 + 46.1538
+ 48.8 Ohm with 0.00% error  48.8000 using         8+(4|1)  +  40           8.8000 + 40.0000
+ 48.9 Ohm with 0.05% error  48.9231 using   (8+1)|4  +  (80|20|10)+40      2.7692 + 46.1538
+ 49.0 Ohm with 0.00% error  49.0000 using     (4|2)+1  +  40+(20|10)       2.3333 + 46.6667
+ 49.1 Ohm with 0.11% error  49.1538 using     2+1  +  (80|20|10)+40        3.0000 + 46.1538
+ 49.2 Ohm with 0.06% error  49.2308 using   8|(4+1)  +  (80|20|10)+40      3.0769 + 46.1538
+ 49.3 Ohm with 0.07% error  49.3333 using      (8|4)  +  40+(20|10)        2.6667 + 46.6667
+ 49.4 Ohm with 0.04% error  49.4222 using    (8|4|2|1)  +  (80|10)+40      0.5333 + 48.8889
+ 49.5 Ohm with 0.01% error  49.5043 using     (8|2|1)  +  (80|10)+40       0.6154 + 48.8889
+ 49.6 Ohm with 0.00% error  49.6000 using    (8+2+1)|4  +  40+(20|10)      2.9333 + 46.6667
+ 49.7 Ohm with 0.09% error  49.7436 using     8|(4+1)  +  40+(20|10)       3.0769 + 46.6667
+ 49.8 Ohm with 0.02% error  49.8120 using     (8+4)|1  +  (80|10)+40       0.9231 + 48.8889
+ 50.0 Ohm with 0.00% error  50.0000 using             40+10                  50.0000   
+ 50.1 Ohm with 0.00% error  50.1010 using    8|(4+1)|2  +  (80|10)+40      1.2121 + 48.8889
+ 50.2 Ohm with 0.04% error  50.2222 using      (4|2)  +  (80|10)+40        1.3333 + 48.8889
+ 50.3 Ohm with 0.00% error  50.3007 using    8|4|(2+1)  +  (80|10)+40      1.4118 + 48.8889
+ 50.4 Ohm with 0.00% error  50.4000 using    8|(4+2+1)  +  40+(20|10)      3.7333 + 46.6667
+ 50.5 Ohm with 0.05% error  50.5253 using     (8+1)|2  +  (80|10)+40       1.6364 + 48.8889
+ 50.6 Ohm with 0.01% error  50.6032 using     (8+4)|2  +  (80|10)+40       1.7143 + 48.8889
+ 50.7 Ohm with 0.05% error  50.7273 using       (8|4|1)  +  40+10          0.7273 + 50.0000
+ 50.8 Ohm with 0.00% error  50.8000 using        (4|1)  +  40+10           0.8000 + 50.0000
+ 50.9 Ohm with 0.02% error  50.9091 using       (8+2)|1  +  40+10          0.9091 + 50.0000
+ 51.0 Ohm with 0.00% error  51.0000 using          1  +  40+10             1.0000 + 50.0000
+ 51.1 Ohm with 0.02% error  51.1111 using   (8|1)+(4|2)  +  (80|10)+40     2.2222 + 48.8889
+ 51.2 Ohm with 0.02% error  51.2121 using      8|(4+1)|2  +  40+10         1.2121 + 50.0000
+ 51.3 Ohm with 0.06% error  51.3333 using        (4|2)  +  40+10           1.3333 + 50.0000
+ 51.4 Ohm with 0.02% error  51.4118 using      8|4|(2+1)  +  40+10         1.4118 + 50.0000
+ 51.5 Ohm with 0.11% error  51.5556 using      (8|4)  +  (80|10)+40        2.6667 + 48.8889
+ 51.6 Ohm with 0.00% error  51.6000 using        (8|2)  +  40+10           1.6000 + 50.0000
+ 51.7 Ohm with 0.03% error  51.7143 using       (8+4)|2  +  40+10          1.7143 + 50.0000
+ 51.8 Ohm with 0.04% error  51.8205 using  (8|4)+2+1  +  (80|20|10)+40     5.6667 + 46.1538
+ 51.9 Ohm with 0.13% error  51.9658 using     8|(4+1)  +  (80|10)+40       3.0769 + 48.8889
+ 52.0 Ohm with 0.00% error  52.0000 using          2  +  40+10             2.0000 + 50.0000
+ 52.1 Ohm with 0.08% error  52.1429 using      (8|4|2)+1  +  40+10         2.1429 + 50.0000
+ 52.2 Ohm with 0.04% error  52.2222 using     (8|1)+(4|2)  +  40+10        2.2222 + 50.0000
+ 52.3 Ohm with 0.03% error  52.3175 using     8|(4+2)  +  (80|10)+40       3.4286 + 48.8889
+ 52.4 Ohm with 0.00% error  52.4000 using     (8|2)+(4|1)  +  40+10        2.4000 + 50.0000
+ 52.5 Ohm with 0.11% error  52.5556 using     (8|4)+1  +  (80|10)+40       3.6667 + 48.8889
+ 52.6 Ohm with 0.00% error  52.6000 using       (8|2)+1  +  40+10          2.6000 + 50.0000
+ 52.7 Ohm with 0.05% error  52.7273 using      (8|4|1)+2  +  40+10         2.7273 + 50.0000
+ 52.8 Ohm with 0.00% error  52.8000 using       (4|1)+2  +  40+10          2.8000 + 50.0000
+ 52.9 Ohm with 0.06% error  52.9333 using      (8+2+1)|4  +  40+10         2.9333 + 50.0000
+ 53.0 Ohm with 0.00% error  53.0000 using         2+1  +  40+10            3.0000 + 50.0000
+ 53.1 Ohm with 0.10% error  53.1538 using    4+2+1  +  (80|20|10)+40       7.0000 + 46.1538
+ 53.2 Ohm with 0.13% error  53.2667 using    (8|2)+4+1  +  40+(20|10)      6.6000 + 46.6667
+ 53.3 Ohm with 0.06% error  53.3333 using     (8|4)+(2|1)  +  40+10        3.3333 + 50.0000
+ 53.4 Ohm with 0.05% error  53.4286 using       8|(4+2)  +  40+10          3.4286 + 50.0000
+ 53.5 Ohm with 0.01% error  53.5043 using    (8|2|1)+4  +  (80|10)+40      4.6154 + 48.8889
+ 53.6 Ohm with 0.00% error  53.6000 using     (8+1)|(4+2)  +  40+10        3.6000 + 50.0000
+ 53.7 Ohm with 0.06% error  53.7333 using      8|(4+2+1)  +  40+10         3.7333 + 50.0000
+ 53.8 Ohm with 0.17% error  53.8889 using       4+1  +  (80|10)+40         5.0000 + 48.8889
+ 54.0 Ohm with 0.00% error  54.0000 using          4  +  40+10             4.0000 + 50.0000
+ 54.1 Ohm with 0.10% error  54.1538 using      8  +  (80|20|10)+40         8.0000 + 46.1538
+ 54.4 Ohm with 0.16% error  54.4889 using     (8|2)+4  +  (80|10)+40       5.6000 + 48.8889
+ 54.5 Ohm with 0.10% error  54.5556 using    (8|4)+2+1  +  (80|10)+40      5.6667 + 48.8889
+ 54.6 Ohm with 0.03% error  54.6154 using      (8|2|1)+4  +  40+10         4.6154 + 50.0000
+ 54.7 Ohm with 0.05% error  54.7253 using  8+(4|2|1)  +  (80|20|10)+40     8.5714 + 46.1538
+ 54.8 Ohm with 0.04% error  54.8205 using   8+(2|1)  +  (80|20|10)+40      8.6667 + 46.1538
+ 54.9 Ohm with 0.10% error  54.9538 using   8+(4|1)  +  (80|20|10)+40      8.8000 + 46.1538
+ 55.0 Ohm with 0.00% error  55.0000 using         4+1  +  40+10            5.0000 + 50.0000
+ 55.1 Ohm with 0.10% error  55.1538 using     8+1  +  (80|20|10)+40        9.0000 + 46.1538
+ 55.2 Ohm with 0.07% error  55.2381 using    8+(4|2|1)  +  40+(20|10)      8.5714 + 46.6667
+ 55.3 Ohm with 0.06% error  55.3333 using     8+(2|1)  +  40+(20|10)       8.6667 + 46.6667
+ 55.4 Ohm with 0.12% error  55.4667 using     8+(4|1)  +  40+(20|10)       8.8000 + 46.6667
+ 55.6 Ohm with 0.00% error  55.6000 using       (8|2)+4  +  40+10          5.6000 + 50.0000
+ 55.7 Ohm with 0.14% error  55.7778 using    (8|1)+4+2  +  (80|10)+40      6.8889 + 48.8889
+ 55.8 Ohm with 0.16% error  55.8889 using      4+2+1  +  (80|10)+40        7.0000 + 48.8889
+ 56.0 Ohm with 0.00% error  56.0000 using           (80|20)+40               56.0000   
+ 56.1 Ohm with 0.10% error  56.1538 using     8+2  +  (80|20|10)+40       10.0000 + 46.1538
+ 56.4 Ohm with 0.15% error  56.4872 using  8+(4|2)+1  +  (80|20|10)+40    10.3333 + 46.1538
+ 56.5 Ohm with 0.06% error  56.5333 using    (8|4|2|1)  +  (80|20)+40      0.5333 + 56.0000
+ 56.6 Ohm with 0.00% error  56.6000 using      (8|2)+4+1  +  40+10         6.6000 + 50.0000
+ 56.7 Ohm with 0.05% error  56.7273 using     (8|4|1)  +  (80|20)+40       0.7273 + 56.0000
+ 56.8 Ohm with 0.00% error  56.8000 using      (4|1)  +  (80|20)+40        0.8000 + 56.0000
+ 56.9 Ohm with 0.02% error  56.9091 using     (8+2)|1  +  (80|20)+40       0.9091 + 56.0000
+ 57.0 Ohm with 0.00% error  57.0000 using        1  +  (80|20)+40          1.0000 + 56.0000
+ 57.1 Ohm with 0.08% error  57.1429 using     (8|4|2)  +  (80|20)+40       1.1429 + 56.0000
+ 57.2 Ohm with 0.00% error  57.2000 using  (8|4|2|1)  +  (80|40)+20+10     0.5333 + 56.6667
+ 57.3 Ohm with 0.06% error  57.3333 using    (2|1)  +  (80|40)+20+10       0.6667 + 56.6667
+ 57.4 Ohm with 0.01% error  57.4074 using  (8+2)|4|1  +  (80|40)+20+10     0.7407 + 56.6667
+ 57.5 Ohm with 0.04% error  57.5238 using   (4+2)|1  +  (80|40)+20+10      0.8571 + 56.6667
+ 57.6 Ohm with 0.00% error  57.6000 using  (8+4+2)|1  +  (80|40)+20+10     0.9333 + 56.6667
+ 57.7 Ohm with 0.02% error  57.7143 using     (8+4)|2  +  (80|20)+40       1.7143 + 56.0000
+ 57.8 Ohm with 0.02% error  57.8095 using   (8|4|2)  +  (80|40)+20+10      1.1429 + 56.6667
+ 58.0 Ohm with 0.00% error  58.0000 using    (4|2)  +  (80|40)+20+10       1.3333 + 56.6667
+ 58.1 Ohm with 0.07% error  58.1429 using    (8|4|2)+1  +  (80|20)+40      2.1429 + 56.0000
+ 58.2 Ohm with 0.04% error  58.2222 using   (8|1)+(4|2)  +  (80|20)+40     2.2222 + 56.0000
+ 58.3 Ohm with 0.01% error  58.3030 using   (8+1)|2  +  (80|40)+20+10      1.6364 + 56.6667
+ 58.4 Ohm with 0.00% error  58.4000 using  (8+4+1)|2  +  (80|40)+20+10     1.7333 + 56.6667
+ 58.5 Ohm with 0.12% error  58.5714 using      8+(4|2|1)  +  40+10         8.5714 + 50.0000
+ 58.6 Ohm with 0.00% error  58.6000 using     (8|2)+1  +  (80|20)+40       2.6000 + 56.0000
+ 58.7 Ohm with 0.05% error  58.7273 using    (8|4|1)+2  +  (80|20)+40      2.7273 + 56.0000
+ 58.8 Ohm with 0.00% error  58.8000 using     (4|1)+2  +  (80|20)+40       2.8000 + 56.0000
+ 58.9 Ohm with 0.06% error  58.9333 using    (8+2+1)|4  +  (80|20)+40      2.9333 + 56.0000
+ 59.0 Ohm with 0.00% error  59.0000 using   (4|2)+1  +  (80|40)+20+10      2.3333 + 56.6667
+ 59.1 Ohm with 0.09% error  59.1538 using    8+4+1  +  (80|20|10)+40      13.0000 + 46.1538
+ 59.2 Ohm with 0.04% error  59.2222 using    8+(4|2)+1  +  (80|10)+40     10.3333 + 48.8889
+ 59.3 Ohm with 0.06% error  59.3333 using    (8|4)  +  (80|40)+20+10       2.6667 + 56.6667
+ 59.4 Ohm with 0.05% error  59.4286 using     8|(4+2)  +  (80|20)+40       3.4286 + 56.0000
+ 59.5 Ohm with 0.04% error  59.5238 using   (8+2)|4  +  (80|40)+20+10      2.8571 + 56.6667
+ 59.6 Ohm with 0.00% error  59.6000 using  (8+2+1)|4  +  (80|40)+20+10     2.9333 + 56.6667
+ 59.7 Ohm with 0.06% error  59.7333 using    8|(4+2+1)  +  (80|20)+40      3.7333 + 56.0000
+ 59.8 Ohm with 0.15% error  59.8889 using      8+2+1  +  (80|10)+40       11.0000 + 48.8889
+ 60.0 Ohm with 0.00% error  60.0000 using             40+20                  60.0000   
+ 60.1 Ohm with 0.09% error  60.1538 using    8+4+2  +  (80|20|10)+40      14.0000 + 46.1538
+ 60.2 Ohm with 0.11% error  60.2667 using (8+1)|(4+2)  +  (80|40)+20+10    3.6000 + 56.6667
+ 60.3 Ohm with 0.06% error  60.3333 using   (8|4)+1  +  (80|40)+20+10      3.6667 + 56.6667
+ 60.4 Ohm with 0.00% error  60.4000 using  8|(4+2+1)  +  (80|40)+20+10     3.7333 + 56.6667
+ 60.5 Ohm with 0.06% error  60.5333 using      (8|4|2|1)  +  40+20         0.5333 + 60.0000
+ 60.6 Ohm with 0.03% error  60.6154 using       (8|2|1)  +  40+20          0.6154 + 60.0000
+ 60.7 Ohm with 0.04% error  60.7273 using       (8|4|1)  +  40+20          0.7273 + 60.0000
+ 60.8 Ohm with 0.00% error  60.8000 using        (4|1)  +  40+20           0.8000 + 60.0000
+ 60.9 Ohm with 0.01% error  60.9091 using       (8+2)|1  +  40+20          0.9091 + 60.0000
+ 61.0 Ohm with 0.00% error  61.0000 using          1  +  40+20             1.0000 + 60.0000
+ 61.1 Ohm with 0.07% error  61.1429 using       (8|4|2)  +  40+20          1.1429 + 60.0000
+ 61.2 Ohm with 0.02% error  61.2121 using      8|(4+1)|2  +  40+20         1.2121 + 60.0000
+ 61.3 Ohm with 0.05% error  61.3333 using        (4|2)  +  40+20           1.3333 + 60.0000
+ 61.4 Ohm with 0.02% error  61.4118 using      8|4|(2+1)  +  40+20         1.4118 + 60.0000
+ 61.5 Ohm with 0.09% error  61.5556 using   (8|1)+4  +  (80|40)+20+10      4.8889 + 56.6667
+ 61.6 Ohm with 0.00% error  61.6000 using        (8|2)  +  40+20           1.6000 + 60.0000
+ 61.7 Ohm with 0.02% error  61.7143 using       (8+4)|2  +  40+20          1.7143 + 60.0000
+ 61.8 Ohm with 0.14% error  61.8889 using      8+4+1  +  (80|10)+40       13.0000 + 48.8889
+ 62.0 Ohm with 0.00% error  62.0000 using          2  +  40+20             2.0000 + 60.0000
+ 62.1 Ohm with 0.07% error  62.1429 using      (8|4|2)+1  +  40+20         2.1429 + 60.0000
+ 62.2 Ohm with 0.04% error  62.2222 using     (8|1)+(4|2)  +  40+20        2.2222 + 60.0000
+ 62.3 Ohm with 0.05% error  62.3333 using       (4|2)+1  +  40+20          2.3333 + 60.0000
+ 62.4 Ohm with 0.00% error  62.4000 using     (8|2)+(4|1)  +  40+20        2.4000 + 60.0000
+ 62.6 Ohm with 0.00% error  62.6000 using       (8|2)+1  +  40+20          2.6000 + 60.0000
+ 62.7 Ohm with 0.04% error  62.7273 using      (8|4|1)+2  +  40+20         2.7273 + 60.0000
+ 62.8 Ohm with 0.00% error  62.8000 using       (4|1)+2  +  40+20          2.8000 + 60.0000
+ 62.9 Ohm with 0.05% error  62.9333 using      (8+2+1)|4  +  40+20         2.9333 + 60.0000
+ 63.0 Ohm with 0.00% error  63.0000 using         2+1  +  40+20            3.0000 + 60.0000
+ 63.2 Ohm with 0.11% error  63.2667 using  (8|2)+4+1  +  (80|40)+20+10     6.6000 + 56.6667
+ 63.3 Ohm with 0.05% error  63.3333 using     (8|4)+(2|1)  +  40+20        3.3333 + 60.0000
+ 63.4 Ohm with 0.05% error  63.4286 using       8|(4+2)  +  40+20          3.4286 + 60.0000
+ 63.5 Ohm with 0.09% error  63.5556 using  (8|1)+4+2  +  (80|40)+20+10     6.8889 + 56.6667
+ 63.6 Ohm with 0.00% error  63.6000 using     (8+1)|(4+2)  +  40+20        3.6000 + 60.0000
+ 63.7 Ohm with 0.05% error  63.7333 using      8|(4+2+1)  +  40+20         3.7333 + 60.0000
+ 63.8 Ohm with 0.14% error  63.8889 using     8+4+2+1  +  (80|10)+40      15.0000 + 48.8889
+ 64.0 Ohm with 0.00% error  64.0000 using          4  +  40+20             4.0000 + 60.0000
+ 64.5 Ohm with 0.11% error  64.5714 using    8+(4|2|1)  +  (80|20)+40      8.5714 + 56.0000
+ 64.6 Ohm with 0.02% error  64.6154 using      (8|2|1)+4  +  40+20         4.6154 + 60.0000
+ 64.8 Ohm with 0.00% error  64.8000 using     8+(4|1)  +  (80|20)+40       8.8000 + 56.0000
+ 65.0 Ohm with 0.00% error  65.0000 using         4+1  +  40+20            5.0000 + 60.0000
+ 65.2 Ohm with 0.06% error  65.2381 using  8+(4|2|1)  +  (80|40)+20+10     8.5714 + 56.6667
+ 65.3 Ohm with 0.05% error  65.3333 using   8+(2|1)  +  (80|40)+20+10      8.6667 + 56.6667
+ 65.4 Ohm with 0.10% error  65.4667 using   8+(4|1)  +  (80|40)+20+10      8.8000 + 56.6667
+ 65.6 Ohm with 0.00% error  65.6000 using       (8|2)+4  +  40+20          5.6000 + 60.0000
+ 66.0 Ohm with 0.00% error  66.0000 using         (80|20)+40+10              66.0000   
+ 66.3 Ohm with 0.05% error  66.3333 using    8+(4|2)+1  +  (80|20)+40     10.3333 + 56.0000
+ 66.5 Ohm with 0.05% error  66.5333 using  (8|4|2|1)  +  (80|20)+40+10     0.5333 + 66.0000
+ 66.6 Ohm with 0.00% error  66.6000 using      (8|2)+4+1  +  40+20         6.6000 + 60.0000
+ 66.7 Ohm with 0.04% error  66.7273 using   (8|4|1)  +  (80|20)+40+10      0.7273 + 66.0000
+ 66.8 Ohm with 0.00% error  66.8000 using    (4|1)  +  (80|20)+40+10       0.8000 + 66.0000
+ 66.9 Ohm with 0.01% error  66.9091 using   (8+2)|1  +  (80|20)+40+10      0.9091 + 66.0000
+ 67.0 Ohm with 0.00% error  67.0000 using      1  +  (80|20)+40+10         1.0000 + 66.0000
+ 67.1 Ohm with 0.06% error  67.1429 using   (8|4|2)  +  (80|20)+40+10      1.1429 + 66.0000
+ 67.2 Ohm with 0.02% error  67.2121 using  8|(4+1)|2  +  (80|20)+40+10     1.2121 + 66.0000
+ 67.3 Ohm with 0.05% error  67.3333 using    (4|2)  +  (80|20)+40+10       1.3333 + 66.0000
+ 67.4 Ohm with 0.02% error  67.4118 using  8|4|(2+1)  +  (80|20)+40+10     1.4118 + 66.0000
+ 67.6 Ohm with 0.00% error  67.6000 using    (8|2)  +  (80|20)+40+10       1.6000 + 66.0000
+ 67.7 Ohm with 0.02% error  67.7143 using   (8+4)|2  +  (80|20)+40+10      1.7143 + 66.0000
+ 68.0 Ohm with 0.00% error  68.0000 using      2  +  (80|20)+40+10         2.0000 + 66.0000
+ 68.1 Ohm with 0.06% error  68.1429 using  (8|4|2)+1  +  (80|20)+40+10     2.1429 + 66.0000
+ 68.2 Ohm with 0.03% error  68.2222 using (8|1)+(4|2)  +  (80|20)+40+10    2.2222 + 66.0000
+ 68.3 Ohm with 0.05% error  68.3333 using   (4|2)+1  +  (80|20)+40+10      2.3333 + 66.0000
+ 68.4 Ohm with 0.00% error  68.4000 using (8|2)+(4|1)  +  (80|20)+40+10    2.4000 + 66.0000
+ 68.5 Ohm with 0.10% error  68.5714 using      8+(4|2|1)  +  40+20         8.5714 + 60.0000
+ 68.6 Ohm with 0.00% error  68.6000 using   (8|2)+1  +  (80|20)+40+10      2.6000 + 66.0000
+ 68.7 Ohm with 0.04% error  68.7273 using  (8|4|1)+2  +  (80|20)+40+10     2.7273 + 66.0000
+ 68.8 Ohm with 0.00% error  68.8000 using   (4|1)+2  +  (80|20)+40+10      2.8000 + 66.0000
+ 68.9 Ohm with 0.05% error  68.9333 using  (8+2+1)|4  +  (80|20)+40+10     2.9333 + 66.0000
+ 69.0 Ohm with 0.00% error  69.0000 using     2+1  +  (80|20)+40+10        3.0000 + 66.0000
+ 69.3 Ohm with 0.05% error  69.3333 using (8|4)+(2|1)  +  (80|20)+40+10    3.3333 + 66.0000
+ 69.4 Ohm with 0.03% error  69.4222 using  (8|4|2|1)  +  (80|10)+40+20     0.5333 + 68.8889
+ 69.5 Ohm with 0.01% error  69.5043 using   (8|2|1)  +  (80|10)+40+20      0.6154 + 68.8889
+ 69.6 Ohm with 0.00% error  69.6000 using (8+1)|(4+2)  +  (80|20)+40+10    3.6000 + 66.0000
+ 69.7 Ohm with 0.05% error  69.7333 using  8|(4+2+1)  +  (80|20)+40+10     3.7333 + 66.0000
+ 69.8 Ohm with 0.02% error  69.8120 using   (8+4)|1  +  (80|10)+40+20      0.9231 + 68.8889
+ 70.0 Ohm with 0.00% error  70.0000 using            40+20+10                70.0000   
+ 70.1 Ohm with 0.00% error  70.1010 using  8|(4+1)|2  +  (80|10)+40+20     1.2121 + 68.8889
+ 70.2 Ohm with 0.03% error  70.2222 using    (4|2)  +  (80|10)+40+20       1.3333 + 68.8889
+ 70.3 Ohm with 0.00% error  70.3007 using  8|4|(2+1)  +  (80|10)+40+20     1.4118 + 68.8889
+ 70.4 Ohm with 0.13% error  70.4889 using    (8|2)  +  (80|10)+40+20       1.6000 + 68.8889
+ 70.5 Ohm with 0.04% error  70.5253 using   (8+1)|2  +  (80|10)+40+20      1.6364 + 68.8889
+ 70.6 Ohm with 0.00% error  70.6032 using   (8+4)|2  +  (80|10)+40+20      1.7143 + 68.8889
+ 70.7 Ohm with 0.04% error  70.7273 using      (8|4|1)  +  40+20+10        0.7273 + 70.0000
+ 70.8 Ohm with 0.00% error  70.8000 using       (4|1)  +  40+20+10         0.8000 + 70.0000
+ 70.9 Ohm with 0.01% error  70.9091 using      (8+2)|1  +  40+20+10        0.9091 + 70.0000
+ 71.0 Ohm with 0.00% error  71.0000 using         1  +  40+20+10           1.0000 + 70.0000
+ 71.1 Ohm with 0.02% error  71.1111 using (8|1)+(4|2)  +  (80|10)+40+20    2.2222 + 68.8889
+ 71.2 Ohm with 0.02% error  71.2121 using     8|(4+1)|2  +  40+20+10       1.2121 + 70.0000
+ 71.3 Ohm with 0.05% error  71.3333 using       (4|2)  +  40+20+10         1.3333 + 70.0000
+ 71.4 Ohm with 0.02% error  71.4118 using     8|4|(2+1)  +  40+20+10       1.4118 + 70.0000
+ 71.5 Ohm with 0.08% error  71.5556 using    (8|4)  +  (80|10)+40+20       2.6667 + 68.8889
+ 71.6 Ohm with 0.00% error  71.6000 using       (8|2)  +  40+20+10         1.6000 + 70.0000
+ 71.7 Ohm with 0.02% error  71.7143 using      (8+4)|2  +  40+20+10        1.7143 + 70.0000
+ 71.8 Ohm with 0.03% error  71.8222 using  (8+2+1)|4  +  (80|10)+40+20     2.9333 + 68.8889
+ 71.9 Ohm with 0.09% error  71.9658 using   8|(4+1)  +  (80|10)+40+20      3.0769 + 68.8889
+ 72.0 Ohm with 0.00% error  72.0000 using         2  +  40+20+10           2.0000 + 70.0000
+ 72.1 Ohm with 0.06% error  72.1429 using     (8|4|2)+1  +  40+20+10       2.1429 + 70.0000
+ 72.2 Ohm with 0.03% error  72.2222 using    (8|1)+(4|2)  +  40+20+10      2.2222 + 70.0000
+ 72.3 Ohm with 0.02% error  72.3175 using   8|(4+2)  +  (80|10)+40+20      3.4286 + 68.8889
+ 72.4 Ohm with 0.00% error  72.4000 using    (8|2)+(4|1)  +  40+20+10      2.4000 + 70.0000
+ 72.5 Ohm with 0.08% error  72.5556 using   (8|4)+1  +  (80|10)+40+20      3.6667 + 68.8889
+ 72.6 Ohm with 0.00% error  72.6000 using      (8|2)+1  +  40+20+10        2.6000 + 70.0000
+ 72.7 Ohm with 0.04% error  72.7273 using     (8|4|1)+2  +  40+20+10       2.7273 + 70.0000
+ 72.8 Ohm with 0.00% error  72.8000 using      (4|1)+2  +  40+20+10        2.8000 + 70.0000
+ 72.9 Ohm with 0.05% error  72.9333 using     (8+2+1)|4  +  40+20+10       2.9333 + 70.0000
+ 73.0 Ohm with 0.00% error  73.0000 using        2+1  +  40+20+10          3.0000 + 70.0000
+ 73.3 Ohm with 0.05% error  73.3333 using    (8|4)+(2|1)  +  40+20+10      3.3333 + 70.0000
+ 73.4 Ohm with 0.04% error  73.4286 using      8|(4+2)  +  40+20+10        3.4286 + 70.0000
+ 73.5 Ohm with 0.01% error  73.5043 using  (8|2|1)+4  +  (80|10)+40+20     4.6154 + 68.8889
+ 73.6 Ohm with 0.00% error  73.6000 using    (8+1)|(4+2)  +  40+20+10      3.6000 + 70.0000
+ 73.7 Ohm with 0.05% error  73.7333 using     8|(4+2+1)  +  40+20+10       3.7333 + 70.0000
+ 73.8 Ohm with 0.12% error  73.8889 using     4+1  +  (80|10)+40+20        5.0000 + 68.8889
+ 74.0 Ohm with 0.00% error  74.0000 using         4  +  40+20+10           4.0000 + 70.0000
+ 74.4 Ohm with 0.12% error  74.4889 using   (8|2)+4  +  (80|10)+40+20      5.6000 + 68.8889
+ 74.5 Ohm with 0.07% error  74.5556 using  (8|4)+2+1  +  (80|10)+40+20     5.6667 + 68.8889
+ 74.6 Ohm with 0.02% error  74.6154 using     (8|2|1)+4  +  40+20+10       4.6154 + 70.0000
+ 74.8 Ohm with 0.00% error  74.8000 using   8+(4|1)  +  (80|20)+40+10      8.8000 + 66.0000
+ 75.0 Ohm with 0.00% error  75.0000 using        4+1  +  40+20+10          5.0000 + 70.0000
+ 75.3 Ohm with 0.04% error  75.3333 using   8+(4|2)  +  (80|20)+40+10      9.3333 + 66.0000
+ 75.4 Ohm with 0.12% error  75.4889 using  (8|2)+4+1  +  (80|10)+40+20     6.6000 + 68.8889
+ 75.6 Ohm with 0.00% error  75.6000 using      (8|2)+4  +  40+20+10        5.6000 + 70.0000
+ 75.7 Ohm with 0.10% error  75.7778 using  (8|1)+4+2  +  (80|10)+40+20     6.8889 + 68.8889
+ 75.8 Ohm with 0.12% error  75.8889 using    4+2+1  +  (80|10)+40+20       7.0000 + 68.8889
+ 76.0 Ohm with 0.00% error  76.0000 using        4+2  +  40+20+10          6.0000 + 70.0000
+ 76.3 Ohm with 0.04% error  76.3333 using  8+(4|2)+1  +  (80|20)+40+10    10.3333 + 66.0000
+ 76.6 Ohm with 0.00% error  76.6000 using     (8|2)+4+1  +  40+20+10       6.6000 + 70.0000
+ 76.8 Ohm with 0.00% error  76.8000 using  8+(4|1)+2  +  (80|20)+40+10    10.8000 + 66.0000
+ 77.0 Ohm with 0.00% error  77.0000 using       4+2+1  +  40+20+10         7.0000 + 70.0000
+ 77.4 Ohm with 0.08% error  77.4603 using  8+(4|2|1)  +  (80|10)+40+20     8.5714 + 68.8889
+ 77.5 Ohm with 0.07% error  77.5556 using   8+(2|1)  +  (80|10)+40+20      8.6667 + 68.8889
+ 77.6 Ohm with 0.11% error  77.6889 using   8+(4|1)  +  (80|10)+40+20      8.8000 + 68.8889
+ 77.8 Ohm with 0.11% error  77.8889 using     8+1  +  (80|10)+40+20        9.0000 + 68.8889
+ 78.0 Ohm with 0.00% error  78.0000 using         8  +  40+20+10           8.0000 + 70.0000
+ 78.2 Ohm with 0.03% error  78.2222 using   8+(4|2)  +  (80|10)+40+20      9.3333 + 68.8889
+ 78.5 Ohm with 0.09% error  78.5714 using     8+(4|2|1)  +  40+20+10       8.5714 + 70.0000
+ 78.6 Ohm with 0.08% error  78.6667 using      8+(2|1)  +  40+20+10        8.6667 + 70.0000
+ 78.8 Ohm with 0.00% error  78.8000 using      8+(4|1)  +  40+20+10        8.8000 + 70.0000
+ 79.0 Ohm with 0.00% error  79.0000 using        8+1  +  40+20+10          9.0000 + 70.0000
+ 79.2 Ohm with 0.03% error  79.2222 using  8+(4|2)+1  +  (80|10)+40+20    10.3333 + 68.8889
+ 79.3 Ohm with 0.04% error  79.3333 using      8+(4|2)  +  40+20+10        9.3333 + 70.0000
+ 79.6 Ohm with 0.11% error  79.6889 using  8+(4|1)+2  +  (80|10)+40+20    10.8000 + 68.8889
+ 79.8 Ohm with 0.11% error  79.8889 using    8+2+1  +  (80|10)+40+20      11.0000 + 68.8889
+ 80.0 Ohm with 0.00% error  80.0000 using               80                   80.0000   
+ 80.3 Ohm with 0.04% error  80.3333 using     8+(4|2)+1  +  40+20+10      10.3333 + 70.0000
+ 80.5 Ohm with 0.04% error  80.5333 using        (8|4|2|1)  +  80          0.5333 + 80.0000
+ 80.6 Ohm with 0.02% error  80.6154 using         (8|2|1)  +  80           0.6154 + 80.0000
+ 80.7 Ohm with 0.03% error  80.7273 using         (8|4|1)  +  80           0.7273 + 80.0000
+ 80.8 Ohm with 0.00% error  80.8000 using          (4|1)  +  80            0.8000 + 80.0000
+ 80.9 Ohm with 0.01% error  80.9091 using         (8+2)|1  +  80           0.9091 + 80.0000
+ 81.0 Ohm with 0.00% error  81.0000 using            1  +  80              1.0000 + 80.0000
+ 81.1 Ohm with 0.05% error  81.1429 using         (8|4|2)  +  80           1.1429 + 80.0000
+ 81.2 Ohm with 0.01% error  81.2121 using        8|(4+1)|2  +  80          1.2121 + 80.0000
+ 81.3 Ohm with 0.04% error  81.3333 using          (4|2)  +  80            1.3333 + 80.0000
+ 81.4 Ohm with 0.01% error  81.4118 using        8|4|(2+1)  +  80          1.4118 + 80.0000
+ 81.5 Ohm with 0.07% error  81.5556 using  8+4+(2|1)  +  (80|10)+40+20    12.6667 + 68.8889
+ 81.6 Ohm with 0.00% error  81.6000 using          (8|2)  +  80            1.6000 + 80.0000
+ 81.7 Ohm with 0.02% error  81.7143 using         (8+4)|2  +  80           1.7143 + 80.0000
+ 81.8 Ohm with 0.11% error  81.8889 using    8+4+1  +  (80|10)+40+20      13.0000 + 68.8889
+ 82.0 Ohm with 0.00% error  82.0000 using            2  +  80              2.0000 + 80.0000
+ 82.1 Ohm with 0.05% error  82.1429 using        (8|4|2)+1  +  80          2.1429 + 80.0000
+ 82.2 Ohm with 0.03% error  82.2222 using       (8|1)+(4|2)  +  80         2.2222 + 80.0000
+ 82.3 Ohm with 0.04% error  82.3333 using         (4|2)+1  +  80           2.3333 + 80.0000
+ 82.4 Ohm with 0.00% error  82.4000 using       (8|2)+(4|1)  +  80         2.4000 + 80.0000
+ 82.6 Ohm with 0.00% error  82.6000 using         (8|2)+1  +  80           2.6000 + 80.0000
+ 82.7 Ohm with 0.03% error  82.7273 using        (8|4|1)+2  +  80          2.7273 + 80.0000
+ 82.8 Ohm with 0.00% error  82.8000 using         (4|1)+2  +  80           2.8000 + 80.0000
+ 82.9 Ohm with 0.04% error  82.9333 using        (8+2+1)|4  +  80          2.9333 + 80.0000
+ 83.0 Ohm with 0.00% error  83.0000 using           2+1  +  80             3.0000 + 80.0000
+ 83.3 Ohm with 0.04% error  83.3333 using       (8|4)+(2|1)  +  80         3.3333 + 80.0000
+ 83.4 Ohm with 0.03% error  83.4286 using         8|(4+2)  +  80           3.4286 + 80.0000
+ 83.6 Ohm with 0.00% error  83.6000 using       (8+1)|(4+2)  +  80         3.6000 + 80.0000
+ 83.7 Ohm with 0.04% error  83.7333 using        8|(4+2+1)  +  80          3.7333 + 80.0000
+ 83.8 Ohm with 0.11% error  83.8889 using   8+4+2+1  +  (80|10)+40+20     15.0000 + 68.8889
+ 84.0 Ohm with 0.00% error  84.0000 using            4  +  80              4.0000 + 80.0000
+ 84.6 Ohm with 0.02% error  84.6154 using        (8|2|1)+4  +  80          4.6154 + 80.0000
+ 84.8 Ohm with 0.10% error  84.8889 using         (8|1)+4  +  80           4.8889 + 80.0000
+ 85.0 Ohm with 0.00% error  85.0000 using           4+1  +  80             5.0000 + 80.0000
+ 85.6 Ohm with 0.00% error  85.6000 using         (8|2)+4  +  80           5.6000 + 80.0000
+ 85.7 Ohm with 0.02% error  85.7143 using         80+(40|20|10)              85.7143   
+ 86.0 Ohm with 0.00% error  86.0000 using           4+2  +  80             6.0000 + 80.0000
+ 86.2 Ohm with 0.06% error  86.2476 using  (8|4|2|1)  +  80+(40|20|10)     0.5333 + 85.7143
+ 86.3 Ohm with 0.03% error  86.3297 using   (8|2|1)  +  80+(40|20|10)      0.6154 + 85.7143
+ 86.4 Ohm with 0.05% error  86.4416 using   (8|4|1)  +  80+(40|20|10)      0.7273 + 85.7143
+ 86.5 Ohm with 0.02% error  86.5143 using    (4|1)  +  80+(40|20|10)       0.8000 + 85.7143
+ 86.6 Ohm with 0.00% error  86.6000 using        (8|2)+4+1  +  80          6.6000 + 80.0000
+ 86.7 Ohm with 0.02% error  86.7143 using      1  +  80+(40|20|10)         1.0000 + 85.7143
+ 86.8 Ohm with 0.07% error  86.8571 using   (8|4|2)  +  80+(40|20|10)      1.1429 + 85.7143
+ 86.9 Ohm with 0.03% error  86.9264 using  8|(4+1)|2  +  80+(40|20|10)     1.2121 + 85.7143
+ 87.0 Ohm with 0.00% error  87.0000 using          4+2+1  +  80            7.0000 + 80.0000
+ 87.1 Ohm with 0.03% error  87.1261 using  8|4|(2+1)  +  80+(40|20|10)     1.4118 + 85.7143
+ 87.2 Ohm with 0.00% error  87.2000 using    (8|4|2|1)  +  80+(20|10)      0.5333 + 86.6667
+ 87.3 Ohm with 0.02% error  87.3143 using    (8|2)  +  80+(40|20|10)       1.6000 + 85.7143
+ 87.4 Ohm with 0.01% error  87.4074 using    (8+2)|4|1  +  80+(20|10)      0.7407 + 86.6667
+ 87.5 Ohm with 0.03% error  87.5238 using     (4+2)|1  +  80+(20|10)       0.8571 + 86.6667
+ 87.6 Ohm with 0.00% error  87.6000 using    (8+4+2)|1  +  80+(20|10)      0.9333 + 86.6667
+ 87.7 Ohm with 0.02% error  87.7143 using      2  +  80+(40|20|10)         2.0000 + 85.7143
+ 87.8 Ohm with 0.01% error  87.8095 using     (8|4|2)  +  80+(20|10)       1.1429 + 86.6667
+ 87.9 Ohm with 0.04% error  87.9365 using (8|1)+(4|2)  +  80+(40|20|10)    2.2222 + 85.7143
+ 88.0 Ohm with 0.00% error  88.0000 using           80+(40|10)               88.0000   
+ 88.1 Ohm with 0.02% error  88.1143 using (8|2)+(4|1)  +  80+(40|20|10)    2.4000 + 85.7143
+ 88.2 Ohm with 0.08% error  88.2667 using      (8|2)  +  80+(20|10)        1.6000 + 86.6667
+ 88.3 Ohm with 0.00% error  88.3030 using     (8+1)|2  +  80+(20|10)       1.6364 + 86.6667
+ 88.4 Ohm with 0.00% error  88.4000 using    (8+4+1)|2  +  80+(20|10)      1.7333 + 86.6667
+ 88.5 Ohm with 0.02% error  88.5143 using   (4|1)+2  +  80+(40|20|10)      2.8000 + 85.7143
+ 88.6 Ohm with 0.00% error  88.6032 using   (8|1)+2  +  80+(40|20|10)      2.8889 + 85.7143
+ 88.7 Ohm with 0.02% error  88.7143 using     2+1  +  80+(40|20|10)        3.0000 + 85.7143
+ 88.8 Ohm with 0.00% error  88.8000 using      (4|1)  +  80+(40|10)        0.8000 + 88.0000
+ 88.9 Ohm with 0.01% error  88.9091 using     (8+2)|1  +  80+(40|10)       0.9091 + 88.0000
+ 89.0 Ohm with 0.00% error  89.0000 using        1  +  80+(40|10)          1.0000 + 88.0000
+ 89.1 Ohm with 0.05% error  89.1429 using     (8|4|2)  +  80+(40|10)       1.1429 + 88.0000
+ 89.2 Ohm with 0.01% error  89.2121 using    8|(4+1)|2  +  80+(40|10)      1.2121 + 88.0000
+ 89.3 Ohm with 0.02% error  89.3143 using (8+1)|(4+2)  +  80+(40|20|10)    3.6000 + 85.7143
+ 89.4 Ohm with 0.01% error  89.4118 using    8|4|(2+1)  +  80+(40|10)      1.4118 + 88.0000
+ 89.5 Ohm with 0.03% error  89.5238 using     (8+2)|4  +  80+(20|10)       2.8571 + 86.6667
+ 89.6 Ohm with 0.00% error  89.6000 using      (8|2)  +  80+(40|10)        1.6000 + 88.0000
+ 89.7 Ohm with 0.02% error  89.7143 using     (8+4)|2  +  80+(40|10)       1.7143 + 88.0000
+ 90.0 Ohm with 0.00% error  90.0000 using             80+10                  90.0000   
+ 90.1 Ohm with 0.05% error  90.1429 using    (8|4|2)+1  +  80+(40|10)      2.1429 + 88.0000
+ 90.2 Ohm with 0.02% error  90.2222 using   (8|1)+(4|2)  +  80+(40|10)     2.2222 + 88.0000
+ 90.3 Ohm with 0.03% error  90.3297 using  (8|2|1)+4  +  80+(40|20|10)     4.6154 + 85.7143
+ 90.4 Ohm with 0.00% error  90.4000 using   (8|2)+(4|1)  +  80+(40|10)     2.4000 + 88.0000
+ 90.5 Ohm with 0.04% error  90.5333 using      (8|4|2|1)  +  80+10         0.5333 + 90.0000
+ 90.6 Ohm with 0.00% error  90.6000 using     (8|2)+1  +  80+(40|10)       2.6000 + 88.0000
+ 90.7 Ohm with 0.02% error  90.7143 using     4+1  +  80+(40|20|10)        5.0000 + 85.7143
+ 90.8 Ohm with 0.00% error  90.8000 using        (4|1)  +  80+10           0.8000 + 90.0000
+ 90.9 Ohm with 0.01% error  90.9091 using       (8+2)|1  +  80+10          0.9091 + 90.0000
+ 91.0 Ohm with 0.00% error  91.0000 using          1  +  80+10             1.0000 + 90.0000
+ 91.1 Ohm with 0.05% error  91.1429 using       (8|4|2)  +  80+10          1.1429 + 90.0000
+ 91.2 Ohm with 0.01% error  91.2121 using      8|(4+1)|2  +  80+10         1.2121 + 90.0000
+ 91.3 Ohm with 0.02% error  91.3143 using   (8|2)+4  +  80+(40|20|10)      5.6000 + 85.7143
+ 91.4 Ohm with 0.01% error  91.4118 using      8|4|(2+1)  +  80+10         1.4118 + 90.0000
+ 91.5 Ohm with 0.06% error  91.5556 using     (8|1)+4  +  80+(20|10)       4.8889 + 86.6667
+ 91.6 Ohm with 0.00% error  91.6000 using        (8|2)  +  80+10           1.6000 + 90.0000
+ 91.7 Ohm with 0.02% error  91.7143 using       (8+4)|2  +  80+10          1.7143 + 90.0000
+ 92.0 Ohm with 0.00% error  92.0000 using          2  +  80+10             2.0000 + 90.0000
+ 92.1 Ohm with 0.05% error  92.1429 using      (8|4|2)+1  +  80+10         2.1429 + 90.0000
+ 92.2 Ohm with 0.02% error  92.2222 using     (8|1)+(4|2)  +  80+10        2.2222 + 90.0000
+ 92.3 Ohm with 0.02% error  92.3143 using  (8|2)+4+1  +  80+(40|20|10)     6.6000 + 85.7143
+ 92.4 Ohm with 0.00% error  92.4000 using     (8|2)+(4|1)  +  80+10        2.4000 + 90.0000
+ 92.6 Ohm with 0.00% error  92.6000 using       (8|2)+1  +  80+10          2.6000 + 90.0000
+ 92.7 Ohm with 0.02% error  92.7143 using    4+2+1  +  80+(40|20|10)       7.0000 + 85.7143
+ 92.8 Ohm with 0.00% error  92.8000 using       (4|1)+2  +  80+10          2.8000 + 90.0000
+ 92.9 Ohm with 0.04% error  92.9333 using      (8+2+1)|4  +  80+10         2.9333 + 90.0000
+ 93.0 Ohm with 0.00% error  93.0000 using         2+1  +  80+10            3.0000 + 90.0000
+ 93.2 Ohm with 0.07% error  93.2667 using    (8|2)+4+1  +  80+(20|10)      6.6000 + 86.6667
+ 93.3 Ohm with 0.04% error  93.3333 using           80+(40|20)               93.3333   
+ 93.4 Ohm with 0.03% error  93.4286 using       8|(4+2)  +  80+10          3.4286 + 90.0000
+ 93.5 Ohm with 0.06% error  93.5556 using    (8|1)+4+2  +  80+(20|10)      6.8889 + 86.6667
+ 93.6 Ohm with 0.00% error  93.6000 using     (8+1)|(4+2)  +  80+10        3.6000 + 90.0000
+ 93.7 Ohm with 0.02% error  93.7143 using      8  +  80+(40|20|10)         8.0000 + 85.7143
+ 93.8 Ohm with 0.07% error  93.8667 using    (8|4|2|1)  +  80+(40|20)      0.5333 + 93.3333
+ 93.9 Ohm with 0.01% error  93.9048 using     (4|2|1)  +  80+(40|20)       0.5714 + 93.3333
+ 94.0 Ohm with 0.00% error  94.0000 using      (2|1)  +  80+(40|20)        0.6667 + 93.3333
+ 94.1 Ohm with 0.01% error  94.1075 using    8|(4+2)|1  +  80+(40|20)      0.7742 + 93.3333
+ 94.2 Ohm with 0.02% error  94.2222 using      (8|1)  +  80+(40|20)        0.8889 + 93.3333
+ 94.3 Ohm with 0.04% error  94.3333 using        1  +  80+(40|20)          1.0000 + 93.3333
+ 94.4 Ohm with 0.08% error  94.4762 using     (8|4|2)  +  80+(40|20)       1.1429 + 93.3333
+ 94.5 Ohm with 0.02% error  94.5143 using   8+(4|1)  +  80+(40|20|10)      8.8000 + 85.7143
+ 94.6 Ohm with 0.00% error  94.6000 using    (8|2)+4+1  +  80+(40|10)      6.6000 + 88.0000
+ 94.7 Ohm with 0.02% error  94.7143 using     8+1  +  80+(40|20|10)        9.0000 + 85.7143
+ 94.8 Ohm with 0.09% error  94.8889 using       (8|1)+4  +  80+10          4.8889 + 90.0000
+ 94.9 Ohm with 0.04% error  94.9333 using      (8|2)  +  80+(40|20)        1.6000 + 93.3333
+ 95.0 Ohm with 0.00% error  95.0000 using         4+1  +  80+10            5.0000 + 90.0000
+ 95.2 Ohm with 0.04% error  95.2381 using    8+(4|2|1)  +  80+(20|10)      8.5714 + 86.6667
+ 95.3 Ohm with 0.03% error  95.3333 using        2  +  80+(40|20)          2.0000 + 93.3333
+ 95.4 Ohm with 0.07% error  95.4667 using     8+(4|1)  +  80+(20|10)       8.8000 + 86.6667
+ 95.5 Ohm with 0.02% error  95.5152 using     8|(2+1)  +  80+(40|20)       2.1818 + 93.3333
+ 95.6 Ohm with 0.00% error  95.6000 using       (8|2)+4  +  80+10          5.6000 + 90.0000
+ 95.7 Ohm with 0.01% error  95.7143 using     8+2  +  80+(40|20|10)       10.0000 + 85.7143
+ 95.9 Ohm with 0.03% error  95.9333 using     (8|2)+1  +  80+(40|20)       2.6000 + 93.3333
+ 96.0 Ohm with 0.00% error  96.0000 using      (8|4)  +  80+(40|20)        2.6667 + 93.3333
+ 96.1 Ohm with 0.00% error  96.1026 using     (8+1)|4  +  80+(40|20)       2.7692 + 93.3333
+ 96.2 Ohm with 0.02% error  96.2222 using     (8|1)+2  +  80+(40|20)       2.8889 + 93.3333
+ 96.3 Ohm with 0.03% error  96.3333 using       2+1  +  80+(40|20)         3.0000 + 93.3333
+ 96.4 Ohm with 0.01% error  96.4103 using     8|(4+1)  +  80+(40|20)       3.0769 + 93.3333
+ 96.5 Ohm with 0.01% error  96.5143 using  8+(4|1)+2  +  80+(40|20|10)    10.8000 + 85.7143
+ 96.6 Ohm with 0.00% error  96.6000 using      (8|2)+4+1  +  80+10         6.6000 + 90.0000
+ 96.7 Ohm with 0.01% error  96.7143 using    8+2+1  +  80+(40|20|10)      11.0000 + 85.7143
+ 96.8 Ohm with 0.00% error  96.8000 using     8+(4|1)  +  80+(40|10)       8.8000 + 88.0000
+ 96.9 Ohm with 0.03% error  96.9333 using   (8+1)|(4+2)  +  80+(40|20)     3.6000 + 93.3333
+ 97.0 Ohm with 0.00% error  97.0000 using     (8|4)+1  +  80+(40|20)       3.6667 + 93.3333
+ 97.3 Ohm with 0.03% error  97.3333 using        4  +  80+(40|20)          4.0000 + 93.3333
+ 97.4 Ohm with 0.07% error  97.4667 using    8+(4|1)+2  +  80+(20|10)     10.8000 + 86.6667
+ 97.6 Ohm with 0.07% error  97.6667 using      8+2+1  +  80+(20|10)       11.0000 + 86.6667
+ 97.7 Ohm with 0.01% error  97.7143 using     8+4  +  80+(40|20|10)       12.0000 + 85.7143
+ 97.9 Ohm with 0.05% error  97.9487 using    (8|2|1)+4  +  80+(40|20)      4.6154 + 93.3333
+ 98.0 Ohm with 0.00% error  98.0000 using     (8|4)+2  +  80+(40|20)       4.6667 + 93.3333
+ 98.2 Ohm with 0.02% error  98.2222 using     (8|1)+4  +  80+(40|20)       4.8889 + 93.3333
+ 98.3 Ohm with 0.03% error  98.3333 using       4+1  +  80+(40|20)         5.0000 + 93.3333
+ 98.5 Ohm with 0.07% error  98.5714 using      8+(4|2|1)  +  80+10         8.5714 + 90.0000
+ 98.6 Ohm with 0.07% error  98.6667 using       8+(2|1)  +  80+10          8.6667 + 90.0000
+ 98.7 Ohm with 0.01% error  98.7143 using    8+4+1  +  80+(40|20|10)      13.0000 + 85.7143
+ 98.8 Ohm with 0.00% error  98.8000 using       8+(4|1)  +  80+10          8.8000 + 90.0000
+ 98.9 Ohm with 0.03% error  98.9333 using     (8|2)+4  +  80+(40|20)       5.6000 + 93.3333
+ 99.0 Ohm with 0.00% error  99.0000 using    (8|4)+2+1  +  80+(40|20)      5.6667 + 93.3333
+ 99.3 Ohm with 0.03% error  99.3333 using       4+2  +  80+(40|20)         6.0000 + 93.3333
+ 99.6 Ohm with 0.07% error  99.6667 using      8+4+1  +  80+(20|10)       13.0000 + 86.6667
+ 99.7 Ohm with 0.01% error  99.7143 using    8+4+2  +  80+(40|20|10)      14.0000 + 85.7143
+ 99.9 Ohm with 0.03% error  99.9333 using    (8|2)+4+1  +  80+(40|20)      6.6000 + 93.3333
+100.0 Ohm with 0.00% error 100.0000 using             80+20                 100.0000   
+100.2 Ohm with 0.02% error 100.2222 using    (8|1)+4+2  +  80+(40|20)      6.8889 + 93.3333
+100.3 Ohm with 0.03% error 100.3333 using      4+2+1  +  80+(40|20)        7.0000 + 93.3333
+100.5 Ohm with 0.03% error 100.5333 using      (8|4|2|1)  +  80+20         0.5333 + 100.0000
+100.6 Ohm with 0.02% error 100.6154 using       (8|2|1)  +  80+20          0.6154 + 100.0000
+100.7 Ohm with 0.01% error 100.7143 using   8+4+2+1  +  80+(40|20|10)     15.0000 + 85.7143
+100.8 Ohm with 0.00% error 100.8000 using        (4|1)  +  80+20           0.8000 + 100.0000
+100.9 Ohm with 0.01% error 100.9091 using       (8+2)|1  +  80+20          0.9091 + 100.0000
+101.0 Ohm with 0.00% error 101.0000 using          1  +  80+20             1.0000 + 100.0000
+101.1 Ohm with 0.04% error 101.1429 using       (8|4|2)  +  80+20          1.1429 + 100.0000
+101.2 Ohm with 0.01% error 101.2121 using      8|(4+1)|2  +  80+20         1.2121 + 100.0000
+101.3 Ohm with 0.03% error 101.3333 using        (4|2)  +  80+20           1.3333 + 100.0000
+101.4 Ohm with 0.01% error 101.4118 using      8|4|(2+1)  +  80+20         1.4118 + 100.0000
+101.6 Ohm with 0.00% error 101.6000 using        (8|2)  +  80+20           1.6000 + 100.0000
+101.7 Ohm with 0.01% error 101.7143 using       (8+4)|2  +  80+20          1.7143 + 100.0000
+101.9 Ohm with 0.00% error 101.9048 using    8+(4|2|1)  +  80+(40|20)      8.5714 + 93.3333
+102.0 Ohm with 0.00% error 102.0000 using          2  +  80+20             2.0000 + 100.0000
+102.1 Ohm with 0.03% error 102.1333 using     8+(4|1)  +  80+(40|20)       8.8000 + 93.3333
+102.2 Ohm with 0.02% error 102.2222 using     (8|1)+(4|2)  +  80+20        2.2222 + 100.0000
+102.3 Ohm with 0.03% error 102.3333 using       (4|2)+1  +  80+20          2.3333 + 100.0000
+102.4 Ohm with 0.00% error 102.4000 using     (8|2)+(4|1)  +  80+20        2.4000 + 100.0000
+102.6 Ohm with 0.00% error 102.6000 using       (8|2)+1  +  80+20          2.6000 + 100.0000
+102.7 Ohm with 0.03% error 102.7273 using      (8|4|1)+2  +  80+20         2.7273 + 100.0000
+102.8 Ohm with 0.00% error 102.8000 using       (4|1)+2  +  80+20          2.8000 + 100.0000
+102.9 Ohm with 0.03% error 102.9333 using      (8+2+1)|4  +  80+20         2.9333 + 100.0000
+103.0 Ohm with 0.00% error 103.0000 using         2+1  +  80+20            3.0000 + 100.0000
+103.3 Ohm with 0.03% error 103.3333 using         80+(40|20)+10             103.3333   
+103.4 Ohm with 0.03% error 103.4286 using       8|(4+2)  +  80+20          3.4286 + 100.0000
+103.6 Ohm with 0.00% error 103.6000 using     (8+1)|(4+2)  +  80+20        3.6000 + 100.0000
+103.7 Ohm with 0.03% error 103.7333 using      8|(4+2+1)  +  80+20         3.7333 + 100.0000
+103.8 Ohm with 0.06% error 103.8667 using  (8|4|2|1)  +  80+(40|20)+10     0.5333 + 103.3333
+103.9 Ohm with 0.00% error 103.9048 using   (4|2|1)  +  80+(40|20)+10      0.5714 + 103.3333
+104.0 Ohm with 0.00% error 104.0000 using    (2|1)  +  80+(40|20)+10       0.6667 + 103.3333
+104.1 Ohm with 0.01% error 104.1075 using  8|(4+2)|1  +  80+(40|20)+10     0.7742 + 103.3333
+104.2 Ohm with 0.02% error 104.2222 using    (8|1)  +  80+(40|20)+10       0.8889 + 103.3333
+104.3 Ohm with 0.03% error 104.3333 using      1  +  80+(40|20)+10         1.0000 + 103.3333
+104.4 Ohm with 0.07% error 104.4762 using   (8|4|2)  +  80+(40|20)+10      1.1429 + 103.3333
+104.5 Ohm with 0.04% error 104.5455 using  8|(4+1)|2  +  80+(40|20)+10     1.2121 + 103.3333
+104.6 Ohm with 0.01% error 104.6154 using      (8|2|1)+4  +  80+20         4.6154 + 100.0000
+104.7 Ohm with 0.04% error 104.7451 using  8|4|(2+1)  +  80+(40|20)+10     1.4118 + 103.3333
+104.8 Ohm with 0.08% error 104.8889 using       (8|1)+4  +  80+20          4.8889 + 100.0000
+104.9 Ohm with 0.03% error 104.9333 using    (8|2)  +  80+(40|20)+10       1.6000 + 103.3333
+105.0 Ohm with 0.00% error 105.0000 using         4+1  +  80+20            5.0000 + 100.0000
+105.3 Ohm with 0.03% error 105.3333 using      2  +  80+(40|20)+10         2.0000 + 103.3333
+105.4 Ohm with 0.07% error 105.4762 using  (8|4|2)+1  +  80+(40|20)+10     2.1429 + 103.3333
+105.5 Ohm with 0.01% error 105.5152 using   8|(2+1)  +  80+(40|20)+10      2.1818 + 103.3333
+105.6 Ohm with 0.00% error 105.6000 using       (8|2)+4  +  80+20          5.6000 + 100.0000
+105.7 Ohm with 0.03% error 105.7333 using (8|2)+(4|1)  +  80+(40|20)+10    2.4000 + 103.3333
+105.9 Ohm with 0.03% error 105.9333 using   (8|2)+1  +  80+(40|20)+10      2.6000 + 103.3333
+106.0 Ohm with 0.00% error 106.0000 using    (8|4)  +  80+(40|20)+10       2.6667 + 103.3333
+106.1 Ohm with 0.00% error 106.1026 using   (8+1)|4  +  80+(40|20)+10      2.7692 + 103.3333
+106.2 Ohm with 0.02% error 106.2222 using   (8|1)+2  +  80+(40|20)+10      2.8889 + 103.3333
+106.3 Ohm with 0.03% error 106.3333 using     2+1  +  80+(40|20)+10        3.0000 + 103.3333
+106.4 Ohm with 0.01% error 106.4103 using   8|(4+1)  +  80+(40|20)+10      3.0769 + 103.3333
+106.6 Ohm with 0.00% error 106.6000 using      (8|2)+4+1  +  80+20         6.6000 + 100.0000
+106.7 Ohm with 0.06% error 106.7619 using   8|(4+2)  +  80+(40|20)+10      3.4286 + 103.3333
+106.8 Ohm with 0.08% error 106.8889 using      (8|1)+4+2  +  80+20         6.8889 + 100.0000
+106.9 Ohm with 0.03% error 106.9333 using (8+1)|(4+2)  +  80+(40|20)+10    3.6000 + 103.3333
+107.0 Ohm with 0.00% error 107.0000 using   (8|4)+1  +  80+(40|20)+10      3.6667 + 103.3333
+107.3 Ohm with 0.03% error 107.3333 using      4  +  80+(40|20)+10         4.0000 + 103.3333
+107.9 Ohm with 0.05% error 107.9487 using  (8|2|1)+4  +  80+(40|20)+10     4.6154 + 103.3333
+108.0 Ohm with 0.00% error 108.0000 using         80+(40|10)+20             108.0000   
+108.2 Ohm with 0.02% error 108.2222 using   (8|1)+4  +  80+(40|20)+10      4.8889 + 103.3333
+108.3 Ohm with 0.03% error 108.3333 using     4+1  +  80+(40|20)+10        5.0000 + 103.3333
+108.5 Ohm with 0.03% error 108.5333 using  (8|4|2|1)  +  80+(40|10)+20     0.5333 + 108.0000
+108.6 Ohm with 0.01% error 108.6154 using   (8|2|1)  +  80+(40|10)+20      0.6154 + 108.0000
+108.7 Ohm with 0.03% error 108.7273 using   (8|4|1)  +  80+(40|10)+20      0.7273 + 108.0000
+108.8 Ohm with 0.00% error 108.8000 using    (4|1)  +  80+(40|10)+20       0.8000 + 108.0000
+108.9 Ohm with 0.01% error 108.9091 using   (8+2)|1  +  80+(40|10)+20      0.9091 + 108.0000
+109.0 Ohm with 0.00% error 109.0000 using      1  +  80+(40|10)+20         1.0000 + 108.0000
+109.1 Ohm with 0.04% error 109.1429 using   (8|4|2)  +  80+(40|10)+20      1.1429 + 108.0000
+109.2 Ohm with 0.01% error 109.2121 using  8|(4+1)|2  +  80+(40|10)+20     1.2121 + 108.0000
+109.3 Ohm with 0.03% error 109.3333 using    (4|2)  +  80+(40|10)+20       1.3333 + 108.0000
+109.4 Ohm with 0.01% error 109.4118 using  8|4|(2+1)  +  80+(40|10)+20     1.4118 + 108.0000
+109.6 Ohm with 0.00% error 109.6000 using    (8|2)  +  80+(40|10)+20       1.6000 + 108.0000
+109.7 Ohm with 0.01% error 109.7143 using   (8+4)|2  +  80+(40|10)+20      1.7143 + 108.0000
+109.9 Ohm with 0.03% error 109.9333 using  (8|2)+4+1  +  80+(40|20)+10     6.6000 + 103.3333
+110.0 Ohm with 0.00% error 110.0000 using            80+20+10               110.0000   
+110.1 Ohm with 0.04% error 110.1429 using  (8|4|2)+1  +  80+(40|10)+20     2.1429 + 108.0000
+110.2 Ohm with 0.02% error 110.2222 using (8|1)+(4|2)  +  80+(40|10)+20    2.2222 + 108.0000
+110.3 Ohm with 0.03% error 110.3333 using   (4|2)+1  +  80+(40|10)+20      2.3333 + 108.0000
+110.4 Ohm with 0.00% error 110.4000 using (8|2)+(4|1)  +  80+(40|10)+20    2.4000 + 108.0000
+110.5 Ohm with 0.03% error 110.5333 using     (8|4|2|1)  +  80+20+10       0.5333 + 110.0000
+110.6 Ohm with 0.00% error 110.6000 using   (8|2)+1  +  80+(40|10)+20      2.6000 + 108.0000
+110.7 Ohm with 0.02% error 110.7273 using      (8|4|1)  +  80+20+10        0.7273 + 110.0000
+110.8 Ohm with 0.00% error 110.8000 using       (4|1)  +  80+20+10         0.8000 + 110.0000
+110.9 Ohm with 0.01% error 110.9091 using      (8+2)|1  +  80+20+10        0.9091 + 110.0000
+111.0 Ohm with 0.00% error 111.0000 using         1  +  80+20+10           1.0000 + 110.0000
+111.1 Ohm with 0.04% error 111.1429 using      (8|4|2)  +  80+20+10        1.1429 + 110.0000
+111.2 Ohm with 0.01% error 111.2121 using     8|(4+1)|2  +  80+20+10       1.2121 + 110.0000
+111.3 Ohm with 0.03% error 111.3333 using       (4|2)  +  80+20+10         1.3333 + 110.0000
+111.4 Ohm with 0.01% error 111.4118 using     8|4|(2+1)  +  80+20+10       1.4118 + 110.0000
+111.6 Ohm with 0.00% error 111.6000 using       (8|2)  +  80+20+10         1.6000 + 110.0000
+111.7 Ohm with 0.01% error 111.7143 using      (8+4)|2  +  80+20+10        1.7143 + 110.0000
+111.9 Ohm with 0.00% error 111.9048 using  8+(4|2|1)  +  80+(40|20)+10     8.5714 + 103.3333
+112.0 Ohm with 0.00% error 112.0000 using         2  +  80+20+10           2.0000 + 110.0000
+112.1 Ohm with 0.03% error 112.1333 using   8+(4|1)  +  80+(40|20)+10      8.8000 + 103.3333
+112.2 Ohm with 0.02% error 112.2222 using    (8|1)+(4|2)  +  80+20+10      2.2222 + 110.0000
+112.3 Ohm with 0.03% error 112.3333 using      (4|2)+1  +  80+20+10        2.3333 + 110.0000
+112.4 Ohm with 0.00% error 112.4000 using    (8|2)+(4|1)  +  80+20+10      2.4000 + 110.0000
+112.6 Ohm with 0.00% error 112.6000 using      (8|2)+1  +  80+20+10        2.6000 + 110.0000
+112.7 Ohm with 0.02% error 112.7273 using     (8|4|1)+2  +  80+20+10       2.7273 + 110.0000
+112.8 Ohm with 0.00% error 112.8000 using      (4|1)+2  +  80+20+10        2.8000 + 110.0000
+112.9 Ohm with 0.03% error 112.9333 using     (8+2+1)|4  +  80+20+10       2.9333 + 110.0000
+113.0 Ohm with 0.00% error 113.0000 using        2+1  +  80+20+10          3.0000 + 110.0000
+113.3 Ohm with 0.03% error 113.3333 using    (8|4)+(2|1)  +  80+20+10      3.3333 + 110.0000
+113.4 Ohm with 0.03% error 113.4286 using      8|(4+2)  +  80+20+10        3.4286 + 110.0000
+113.6 Ohm with 0.00% error 113.6000 using    (8+1)|(4+2)  +  80+20+10      3.6000 + 110.0000
+113.7 Ohm with 0.03% error 113.7333 using     8|(4+2+1)  +  80+20+10       3.7333 + 110.0000
+114.0 Ohm with 0.00% error 114.0000 using         4  +  80+20+10           4.0000 + 110.0000
+114.1 Ohm with 0.03% error 114.1333 using  8+(4|1)+2  +  80+(40|20)+10    10.8000 + 103.3333
+114.3 Ohm with 0.03% error 114.3333 using    8+2+1  +  80+(40|20)+10      11.0000 + 103.3333
+114.6 Ohm with 0.00% error 114.6000 using  (8|2)+4+1  +  80+(40|10)+20     6.6000 + 108.0000
+114.8 Ohm with 0.08% error 114.8889 using      (8|1)+4  +  80+20+10        4.8889 + 110.0000
+115.0 Ohm with 0.00% error 115.0000 using        4+1  +  80+20+10          5.0000 + 110.0000
+115.3 Ohm with 0.03% error 115.3333 using     8+4  +  80+(40|20)+10       12.0000 + 103.3333
+115.6 Ohm with 0.00% error 115.6000 using      (8|2)+4  +  80+20+10        5.6000 + 110.0000
+116.0 Ohm with 0.00% error 116.0000 using        4+2  +  80+20+10          6.0000 + 110.0000
+116.3 Ohm with 0.03% error 116.3333 using    8+4+1  +  80+(40|20)+10      13.0000 + 103.3333
+116.5 Ohm with 0.06% error 116.5714 using  8+(4|2|1)  +  80+(40|10)+20     8.5714 + 108.0000
+116.6 Ohm with 0.00% error 116.6000 using     (8|2)+4+1  +  80+20+10       6.6000 + 110.0000
+116.8 Ohm with 0.00% error 116.8000 using   8+(4|1)  +  80+(40|10)+20      8.8000 + 108.0000
+117.0 Ohm with 0.00% error 117.0000 using       4+2+1  +  80+20+10         7.0000 + 110.0000
+117.3 Ohm with 0.03% error 117.3333 using   8+(4|2)  +  80+(40|10)+20      9.3333 + 108.0000
+118.0 Ohm with 0.00% error 118.0000 using         8  +  80+20+10           8.0000 + 110.0000
+118.3 Ohm with 0.03% error 118.3333 using  8+(4|2)+1  +  80+(40|10)+20    10.3333 + 108.0000
+118.5 Ohm with 0.06% error 118.5714 using     8+(4|2|1)  +  80+20+10       8.5714 + 110.0000
+118.6 Ohm with 0.06% error 118.6667 using      8+(2|1)  +  80+20+10        8.6667 + 110.0000
+118.8 Ohm with 0.00% error 118.8000 using      8+(4|1)  +  80+20+10        8.8000 + 110.0000
+119.0 Ohm with 0.00% error 119.0000 using        8+1  +  80+20+10          9.0000 + 110.0000
+119.3 Ohm with 0.03% error 119.3333 using      8+(4|2)  +  80+20+10        9.3333 + 110.0000
+120.0 Ohm with 0.00% error 120.0000 using             80+40                 120.0000   
+120.3 Ohm with 0.03% error 120.3333 using     8+(4|2)+1  +  80+20+10      10.3333 + 110.0000
+120.5 Ohm with 0.03% error 120.5333 using      (8|4|2|1)  +  80+40         0.5333 + 120.0000
+120.6 Ohm with 0.01% error 120.6154 using       (8|2|1)  +  80+40          0.6154 + 120.0000
+120.7 Ohm with 0.02% error 120.7273 using       (8|4|1)  +  80+40          0.7273 + 120.0000
+120.8 Ohm with 0.00% error 120.8000 using        (4|1)  +  80+40           0.8000 + 120.0000
+120.9 Ohm with 0.01% error 120.9091 using       (8+2)|1  +  80+40          0.9091 + 120.0000
+121.0 Ohm with 0.00% error 121.0000 using          1  +  80+40             1.0000 + 120.0000
+121.1 Ohm with 0.04% error 121.1429 using       (8|4|2)  +  80+40          1.1429 + 120.0000
+121.2 Ohm with 0.01% error 121.2121 using      8|(4+1)|2  +  80+40         1.2121 + 120.0000
+121.3 Ohm with 0.03% error 121.3333 using        (4|2)  +  80+40           1.3333 + 120.0000
+121.4 Ohm with 0.01% error 121.4118 using      8|4|(2+1)  +  80+40         1.4118 + 120.0000
+121.6 Ohm with 0.00% error 121.6000 using        (8|2)  +  80+40           1.6000 + 120.0000
+121.7 Ohm with 0.01% error 121.7143 using       (8+4)|2  +  80+40          1.7143 + 120.0000
+122.0 Ohm with 0.00% error 122.0000 using          2  +  80+40             2.0000 + 120.0000
+122.1 Ohm with 0.04% error 122.1429 using      (8|4|2)+1  +  80+40         2.1429 + 120.0000
+122.2 Ohm with 0.02% error 122.2222 using     (8|1)+(4|2)  +  80+40        2.2222 + 120.0000
+122.3 Ohm with 0.03% error 122.3333 using       (4|2)+1  +  80+40          2.3333 + 120.0000
+122.4 Ohm with 0.00% error 122.4000 using     (8|2)+(4|1)  +  80+40        2.4000 + 120.0000
+122.6 Ohm with 0.00% error 122.6000 using       (8|2)+1  +  80+40          2.6000 + 120.0000
+122.7 Ohm with 0.02% error 122.7273 using      (8|4|1)+2  +  80+40         2.7273 + 120.0000
+122.8 Ohm with 0.00% error 122.8000 using       (4|1)+2  +  80+40          2.8000 + 120.0000
+122.9 Ohm with 0.03% error 122.9333 using      (8+2+1)|4  +  80+40         2.9333 + 120.0000
+123.0 Ohm with 0.00% error 123.0000 using         2+1  +  80+40            3.0000 + 120.0000
+123.3 Ohm with 0.03% error 123.3333 using     (8|4)+(2|1)  +  80+40        3.3333 + 120.0000
+123.4 Ohm with 0.02% error 123.4286 using       8|(4+2)  +  80+40          3.4286 + 120.0000
+123.6 Ohm with 0.00% error 123.6000 using     (8+1)|(4+2)  +  80+40        3.6000 + 120.0000
+123.7 Ohm with 0.03% error 123.7333 using      8|(4+2+1)  +  80+40         3.7333 + 120.0000
+124.0 Ohm with 0.00% error 124.0000 using          4  +  80+40             4.0000 + 120.0000
+124.6 Ohm with 0.01% error 124.6154 using      (8|2|1)+4  +  80+40         4.6154 + 120.0000
+124.8 Ohm with 0.07% error 124.8889 using       (8|1)+4  +  80+40          4.8889 + 120.0000
+125.0 Ohm with 0.00% error 125.0000 using         4+1  +  80+40            5.0000 + 120.0000
+125.6 Ohm with 0.00% error 125.6000 using       (8|2)+4  +  80+40          5.6000 + 120.0000
+126.0 Ohm with 0.00% error 126.0000 using         4+2  +  80+40            6.0000 + 120.0000
+126.6 Ohm with 0.00% error 126.6000 using      (8|2)+4+1  +  80+40         6.6000 + 120.0000
+126.8 Ohm with 0.07% error 126.8889 using      (8|1)+4+2  +  80+40         6.8889 + 120.0000
+127.0 Ohm with 0.00% error 127.0000 using        4+2+1  +  80+40           7.0000 + 120.0000
+127.2 Ohm with 0.00% error 127.2000 using  (8|4|2|1)  +  80+40+(20|10)     0.5333 + 126.6667
+127.3 Ohm with 0.03% error 127.3333 using    (2|1)  +  80+40+(20|10)       0.6667 + 126.6667
+127.4 Ohm with 0.01% error 127.4074 using  (8+2)|4|1  +  80+40+(20|10)     0.7407 + 126.6667
+127.5 Ohm with 0.02% error 127.5238 using   (4+2)|1  +  80+40+(20|10)      0.8571 + 126.6667
+127.6 Ohm with 0.00% error 127.6000 using  (8+4+2)|1  +  80+40+(20|10)     0.9333 + 126.6667
+127.8 Ohm with 0.01% error 127.8095 using   (8|4|2)  +  80+40+(20|10)      1.1429 + 126.6667
+128.0 Ohm with 0.00% error 128.0000 using    (4|2)  +  80+40+(20|10)       1.3333 + 126.6667
+128.2 Ohm with 0.05% error 128.2667 using    (8|2)  +  80+40+(20|10)       1.6000 + 126.6667
+128.3 Ohm with 0.00% error 128.3030 using   (8+1)|2  +  80+40+(20|10)      1.6364 + 126.6667
+128.4 Ohm with 0.00% error 128.4000 using  (8+4+1)|2  +  80+40+(20|10)     1.7333 + 126.6667
+128.5 Ohm with 0.06% error 128.5714 using      8+(4|2|1)  +  80+40         8.5714 + 120.0000
+128.6 Ohm with 0.05% error 128.6667 using      2  +  80+40+(20|10)         2.0000 + 126.6667
+128.8 Ohm with 0.00% error 128.8000 using       8+(4|1)  +  80+40          8.8000 + 120.0000
+129.0 Ohm with 0.00% error 129.0000 using   (4|2)+1  +  80+40+(20|10)      2.3333 + 126.6667
+129.2 Ohm with 0.05% error 129.2667 using   (8|2)+1  +  80+40+(20|10)      2.6000 + 126.6667
+129.3 Ohm with 0.03% error 129.3333 using    (8|4)  +  80+40+(20|10)       2.6667 + 126.6667
+129.4 Ohm with 0.03% error 129.4359 using   (8+1)|4  +  80+40+(20|10)      2.7692 + 126.6667
+129.5 Ohm with 0.02% error 129.5238 using   (8+2)|4  +  80+40+(20|10)      2.8571 + 126.6667
+129.6 Ohm with 0.00% error 129.6000 using  (8+2+1)|4  +  80+40+(20|10)     2.9333 + 126.6667
+129.7 Ohm with 0.03% error 129.7436 using   8|(4+1)  +  80+40+(20|10)      3.0769 + 126.6667
+130.0 Ohm with 0.00% error 130.0000 using            80+40+10               130.0000   
+130.2 Ohm with 0.05% error 130.2667 using (8+1)|(4+2)  +  80+40+(20|10)    3.6000 + 126.6667
+130.3 Ohm with 0.03% error 130.3333 using   (8|4)+1  +  80+40+(20|10)      3.6667 + 126.6667
+130.4 Ohm with 0.00% error 130.4000 using  8|(4+2+1)  +  80+40+(20|10)     3.7333 + 126.6667
+130.5 Ohm with 0.03% error 130.5333 using     (8|4|2|1)  +  80+40+10       0.5333 + 130.0000
+130.6 Ohm with 0.01% error 130.6154 using      (8|2|1)  +  80+40+10        0.6154 + 130.0000
+130.7 Ohm with 0.02% error 130.7273 using      (8|4|1)  +  80+40+10        0.7273 + 130.0000
+130.8 Ohm with 0.00% error 130.8000 using       (4|1)  +  80+40+10         0.8000 + 130.0000
+130.9 Ohm with 0.01% error 130.9091 using      (8+2)|1  +  80+40+10        0.9091 + 130.0000
+131.0 Ohm with 0.00% error 131.0000 using         1  +  80+40+10           1.0000 + 130.0000
+131.1 Ohm with 0.03% error 131.1429 using      (8|4|2)  +  80+40+10        1.1429 + 130.0000
+131.2 Ohm with 0.01% error 131.2121 using     8|(4+1)|2  +  80+40+10       1.2121 + 130.0000
+131.3 Ohm with 0.03% error 131.3333 using       (4|2)  +  80+40+10         1.3333 + 130.0000
+131.4 Ohm with 0.01% error 131.4118 using     8|4|(2+1)  +  80+40+10       1.4118 + 130.0000
+131.5 Ohm with 0.04% error 131.5556 using   (8|1)+4  +  80+40+(20|10)      4.8889 + 126.6667
+131.6 Ohm with 0.00% error 131.6000 using       (8|2)  +  80+40+10         1.6000 + 130.0000
+131.7 Ohm with 0.01% error 131.7143 using      (8+4)|2  +  80+40+10        1.7143 + 130.0000
+132.0 Ohm with 0.00% error 132.0000 using         2  +  80+40+10           2.0000 + 130.0000
+132.1 Ohm with 0.03% error 132.1429 using     (8|4|2)+1  +  80+40+10       2.1429 + 130.0000
+132.2 Ohm with 0.02% error 132.2222 using    (8|1)+(4|2)  +  80+40+10      2.2222 + 130.0000
+132.3 Ohm with 0.03% error 132.3333 using      (4|2)+1  +  80+40+10        2.3333 + 130.0000
+132.4 Ohm with 0.00% error 132.4000 using    (8|2)+(4|1)  +  80+40+10      2.4000 + 130.0000
+132.6 Ohm with 0.00% error 132.6000 using      (8|2)+1  +  80+40+10        2.6000 + 130.0000
+132.7 Ohm with 0.02% error 132.7273 using     (8|4|1)+2  +  80+40+10       2.7273 + 130.0000
+132.8 Ohm with 0.00% error 132.8000 using      (4|1)+2  +  80+40+10        2.8000 + 130.0000
+132.9 Ohm with 0.03% error 132.9333 using     (8+2+1)|4  +  80+40+10       2.9333 + 130.0000
+133.0 Ohm with 0.00% error 133.0000 using        2+1  +  80+40+10          3.0000 + 130.0000
+133.2 Ohm with 0.05% error 133.2667 using  (8|2)+4+1  +  80+40+(20|10)     6.6000 + 126.6667
+133.3 Ohm with 0.03% error 133.3333 using    (8|4)+(2|1)  +  80+40+10      3.3333 + 130.0000
+133.4 Ohm with 0.02% error 133.4286 using      8|(4+2)  +  80+40+10        3.4286 + 130.0000
+133.5 Ohm with 0.04% error 133.5556 using  (8|1)+4+2  +  80+40+(20|10)     6.8889 + 126.6667
+133.6 Ohm with 0.00% error 133.6000 using    (8+1)|(4+2)  +  80+40+10      3.6000 + 130.0000
+133.7 Ohm with 0.02% error 133.7333 using     8|(4+2+1)  +  80+40+10       3.7333 + 130.0000
+134.0 Ohm with 0.00% error 134.0000 using         4  +  80+40+10           4.0000 + 130.0000
+134.6 Ohm with 0.01% error 134.6154 using     (8|2|1)+4  +  80+40+10       4.6154 + 130.0000
+134.8 Ohm with 0.07% error 134.8889 using      (8|1)+4  +  80+40+10        4.8889 + 130.0000
+135.0 Ohm with 0.00% error 135.0000 using        4+1  +  80+40+10          5.0000 + 130.0000
+135.2 Ohm with 0.03% error 135.2381 using  8+(4|2|1)  +  80+40+(20|10)     8.5714 + 126.6667
+135.3 Ohm with 0.02% error 135.3333 using   8+(2|1)  +  80+40+(20|10)      8.6667 + 126.6667
+135.4 Ohm with 0.05% error 135.4667 using   8+(4|1)  +  80+40+(20|10)      8.8000 + 126.6667
+135.6 Ohm with 0.00% error 135.6000 using      (8|2)+4  +  80+40+10        5.6000 + 130.0000
+136.0 Ohm with 0.00% error 136.0000 using        4+2  +  80+40+10          6.0000 + 130.0000
+136.6 Ohm with 0.00% error 136.6000 using     (8|2)+4+1  +  80+40+10       6.6000 + 130.0000
+136.8 Ohm with 0.06% error 136.8889 using     (8|1)+4+2  +  80+40+10       6.8889 + 130.0000
+137.0 Ohm with 0.00% error 137.0000 using       4+2+1  +  80+40+10         7.0000 + 130.0000
+137.4 Ohm with 0.05% error 137.4667 using  8+(4|1)+2  +  80+40+(20|10)    10.8000 + 126.6667
+137.6 Ohm with 0.05% error 137.6667 using    8+2+1  +  80+40+(20|10)      11.0000 + 126.6667
+138.0 Ohm with 0.00% error 138.0000 using         8  +  80+40+10           8.0000 + 130.0000
+138.5 Ohm with 0.05% error 138.5714 using     8+(4|2|1)  +  80+40+10       8.5714 + 130.0000
+138.6 Ohm with 0.05% error 138.6667 using      8+(2|1)  +  80+40+10        8.6667 + 130.0000
+138.8 Ohm with 0.00% error 138.8000 using      8+(4|1)  +  80+40+10        8.8000 + 130.0000
+139.0 Ohm with 0.00% error 139.0000 using        8+1  +  80+40+10          9.0000 + 130.0000
+139.3 Ohm with 0.02% error 139.3333 using      8+(4|2)  +  80+40+10        9.3333 + 130.0000
+139.6 Ohm with 0.05% error 139.6667 using    8+4+1  +  80+40+(20|10)      13.0000 + 126.6667
+140.0 Ohm with 0.00% error 140.0000 using            80+40+20               140.0000   
+140.3 Ohm with 0.02% error 140.3333 using     8+(4|2)+1  +  80+40+10      10.3333 + 130.0000
+140.5 Ohm with 0.02% error 140.5333 using     (8|4|2|1)  +  80+40+20       0.5333 + 140.0000
+140.6 Ohm with 0.01% error 140.6154 using      (8|2|1)  +  80+40+20        0.6154 + 140.0000
+140.7 Ohm with 0.02% error 140.7273 using      (8|4|1)  +  80+40+20        0.7273 + 140.0000
+140.8 Ohm with 0.00% error 140.8000 using       (4|1)  +  80+40+20         0.8000 + 140.0000
+140.9 Ohm with 0.01% error 140.9091 using      (8+2)|1  +  80+40+20        0.9091 + 140.0000
+141.0 Ohm with 0.00% error 141.0000 using         1  +  80+40+20           1.0000 + 140.0000
+141.1 Ohm with 0.03% error 141.1429 using      (8|4|2)  +  80+40+20        1.1429 + 140.0000
+141.2 Ohm with 0.01% error 141.2121 using     8|(4+1)|2  +  80+40+20       1.2121 + 140.0000
+141.3 Ohm with 0.02% error 141.3333 using       (4|2)  +  80+40+20         1.3333 + 140.0000
+141.4 Ohm with 0.01% error 141.4118 using     8|4|(2+1)  +  80+40+20       1.4118 + 140.0000
+141.6 Ohm with 0.00% error 141.6000 using       (8|2)  +  80+40+20         1.6000 + 140.0000
+141.7 Ohm with 0.01% error 141.7143 using      (8+4)|2  +  80+40+20        1.7143 + 140.0000
+142.0 Ohm with 0.00% error 142.0000 using         2  +  80+40+20           2.0000 + 140.0000
+142.1 Ohm with 0.03% error 142.1429 using     (8|4|2)+1  +  80+40+20       2.1429 + 140.0000
+142.2 Ohm with 0.02% error 142.2222 using    (8|1)+(4|2)  +  80+40+20      2.2222 + 140.0000
+142.3 Ohm with 0.02% error 142.3333 using      (4|2)+1  +  80+40+20        2.3333 + 140.0000
+142.4 Ohm with 0.00% error 142.4000 using    (8|2)+(4|1)  +  80+40+20      2.4000 + 140.0000
+142.6 Ohm with 0.00% error 142.6000 using      (8|2)+1  +  80+40+20        2.6000 + 140.0000
+142.7 Ohm with 0.02% error 142.7273 using     (8|4|1)+2  +  80+40+20       2.7273 + 140.0000
+142.8 Ohm with 0.00% error 142.8000 using      (4|1)+2  +  80+40+20        2.8000 + 140.0000
+142.9 Ohm with 0.02% error 142.9333 using     (8+2+1)|4  +  80+40+20       2.9333 + 140.0000
+143.0 Ohm with 0.00% error 143.0000 using        2+1  +  80+40+20          3.0000 + 140.0000
+143.3 Ohm with 0.02% error 143.3333 using    (8|4)+(2|1)  +  80+40+20      3.3333 + 140.0000
+143.4 Ohm with 0.02% error 143.4286 using      8|(4+2)  +  80+40+20        3.4286 + 140.0000
+143.6 Ohm with 0.00% error 143.6000 using    (8+1)|(4+2)  +  80+40+20      3.6000 + 140.0000
+143.7 Ohm with 0.02% error 143.7333 using     8|(4+2+1)  +  80+40+20       3.7333 + 140.0000
+144.0 Ohm with 0.00% error 144.0000 using         4  +  80+40+20           4.0000 + 140.0000
+144.6 Ohm with 0.01% error 144.6154 using     (8|2|1)+4  +  80+40+20       4.6154 + 140.0000
+144.8 Ohm with 0.06% error 144.8889 using      (8|1)+4  +  80+40+20        4.8889 + 140.0000
+145.0 Ohm with 0.00% error 145.0000 using        4+1  +  80+40+20          5.0000 + 140.0000
+145.6 Ohm with 0.00% error 145.6000 using      (8|2)+4  +  80+40+20        5.6000 + 140.0000
+146.0 Ohm with 0.00% error 146.0000 using        4+2  +  80+40+20          6.0000 + 140.0000
+146.6 Ohm with 0.00% error 146.6000 using     (8|2)+4+1  +  80+40+20       6.6000 + 140.0000
+146.8 Ohm with 0.06% error 146.8889 using     (8|1)+4+2  +  80+40+20       6.8889 + 140.0000
+147.0 Ohm with 0.00% error 147.0000 using       4+2+1  +  80+40+20         7.0000 + 140.0000
+148.0 Ohm with 0.00% error 148.0000 using         8  +  80+40+20           8.0000 + 140.0000
+148.5 Ohm with 0.05% error 148.5714 using     8+(4|2|1)  +  80+40+20       8.5714 + 140.0000
+148.6 Ohm with 0.04% error 148.6667 using      8+(2|1)  +  80+40+20        8.6667 + 140.0000
+148.8 Ohm with 0.00% error 148.8000 using      8+(4|1)  +  80+40+20        8.8000 + 140.0000
+149.0 Ohm with 0.00% error 149.0000 using        8+1  +  80+40+20          9.0000 + 140.0000
+149.3 Ohm with 0.02% error 149.3333 using      8+(4|2)  +  80+40+20        9.3333 + 140.0000
+150.0 Ohm with 0.00% error 150.0000 using          80+40+20+10              150.0000   
+150.3 Ohm with 0.02% error 150.3333 using     8+(4|2)+1  +  80+40+20      10.3333 + 140.0000
+150.5 Ohm with 0.02% error 150.5333 using   (8|4|2|1)  +  80+40+20+10      0.5333 + 150.0000
+150.6 Ohm with 0.01% error 150.6154 using    (8|2|1)  +  80+40+20+10       0.6154 + 150.0000
+150.7 Ohm with 0.02% error 150.7273 using    (8|4|1)  +  80+40+20+10       0.7273 + 150.0000
+150.8 Ohm with 0.00% error 150.8000 using     (4|1)  +  80+40+20+10        0.8000 + 150.0000
+150.9 Ohm with 0.01% error 150.9091 using    (8+2)|1  +  80+40+20+10       0.9091 + 150.0000
+151.0 Ohm with 0.00% error 151.0000 using       1  +  80+40+20+10          1.0000 + 150.0000
+151.1 Ohm with 0.03% error 151.1429 using    (8|4|2)  +  80+40+20+10       1.1429 + 150.0000
+151.2 Ohm with 0.01% error 151.2121 using   8|(4+1)|2  +  80+40+20+10      1.2121 + 150.0000
+151.3 Ohm with 0.02% error 151.3333 using     (4|2)  +  80+40+20+10        1.3333 + 150.0000
+151.4 Ohm with 0.01% error 151.4118 using   8|4|(2+1)  +  80+40+20+10      1.4118 + 150.0000
+151.6 Ohm with 0.00% error 151.6000 using     (8|2)  +  80+40+20+10        1.6000 + 150.0000
+151.7 Ohm with 0.01% error 151.7143 using    (8+4)|2  +  80+40+20+10       1.7143 + 150.0000
+152.0 Ohm with 0.00% error 152.0000 using       2  +  80+40+20+10          2.0000 + 150.0000
+152.1 Ohm with 0.03% error 152.1429 using   (8|4|2)+1  +  80+40+20+10      2.1429 + 150.0000
+152.2 Ohm with 0.01% error 152.2222 using  (8|1)+(4|2)  +  80+40+20+10     2.2222 + 150.0000
+152.3 Ohm with 0.02% error 152.3333 using    (4|2)+1  +  80+40+20+10       2.3333 + 150.0000
+152.4 Ohm with 0.00% error 152.4000 using  (8|2)+(4|1)  +  80+40+20+10     2.4000 + 150.0000
+152.6 Ohm with 0.00% error 152.6000 using    (8|2)+1  +  80+40+20+10       2.6000 + 150.0000
+152.7 Ohm with 0.02% error 152.7273 using   (8|4|1)+2  +  80+40+20+10      2.7273 + 150.0000
+152.8 Ohm with 0.00% error 152.8000 using    (4|1)+2  +  80+40+20+10       2.8000 + 150.0000
+152.9 Ohm with 0.02% error 152.9333 using   (8+2+1)|4  +  80+40+20+10      2.9333 + 150.0000
+153.0 Ohm with 0.00% error 153.0000 using      2+1  +  80+40+20+10         3.0000 + 150.0000
+153.3 Ohm with 0.02% error 153.3333 using  (8|4)+(2|1)  +  80+40+20+10     3.3333 + 150.0000
+153.4 Ohm with 0.02% error 153.4286 using    8|(4+2)  +  80+40+20+10       3.4286 + 150.0000
+153.6 Ohm with 0.00% error 153.6000 using  (8+1)|(4+2)  +  80+40+20+10     3.6000 + 150.0000
+153.7 Ohm with 0.02% error 153.7333 using   8|(4+2+1)  +  80+40+20+10      3.7333 + 150.0000
+154.0 Ohm with 0.00% error 154.0000 using       4  +  80+40+20+10          4.0000 + 150.0000
+154.6 Ohm with 0.01% error 154.6154 using   (8|2|1)+4  +  80+40+20+10      4.6154 + 150.0000
+154.8 Ohm with 0.06% error 154.8889 using    (8|1)+4  +  80+40+20+10       4.8889 + 150.0000
+155.0 Ohm with 0.00% error 155.0000 using      4+1  +  80+40+20+10         5.0000 + 150.0000
+155.6 Ohm with 0.00% error 155.6000 using    (8|2)+4  +  80+40+20+10       5.6000 + 150.0000
+156.0 Ohm with 0.00% error 156.0000 using      4+2  +  80+40+20+10         6.0000 + 150.0000
+156.6 Ohm with 0.00% error 156.6000 using   (8|2)+4+1  +  80+40+20+10      6.6000 + 150.0000
+156.8 Ohm with 0.06% error 156.8889 using   (8|1)+4+2  +  80+40+20+10      6.8889 + 150.0000
+157.0 Ohm with 0.00% error 157.0000 using     4+2+1  +  80+40+20+10        7.0000 + 150.0000
+158.0 Ohm with 0.00% error 158.0000 using       8  +  80+40+20+10          8.0000 + 150.0000
+158.5 Ohm with 0.05% error 158.5714 using   8+(4|2|1)  +  80+40+20+10      8.5714 + 150.0000
+158.6 Ohm with 0.04% error 158.6667 using    8+(2|1)  +  80+40+20+10       8.6667 + 150.0000
+158.8 Ohm with 0.00% error 158.8000 using    8+(4|1)  +  80+40+20+10       8.8000 + 150.0000
+159.0 Ohm with 0.00% error 159.0000 using      8+1  +  80+40+20+10         9.0000 + 150.0000
+159.3 Ohm with 0.02% error 159.3333 using    8+(4|2)  +  80+40+20+10       9.3333 + 150.0000
+160.0 Ohm with 0.00% error 160.0000 using      8+2  +  80+40+20+10        10.0000 + 150.0000
+160.3 Ohm with 0.02% error 160.3333 using   8+(4|2)+1  +  80+40+20+10     10.3333 + 150.0000
+160.8 Ohm with 0.00% error 160.8000 using   8+(4|1)+2  +  80+40+20+10     10.8000 + 150.0000
+161.0 Ohm with 0.00% error 161.0000 using     8+2+1  +  80+40+20+10       11.0000 + 150.0000
+162.0 Ohm with 0.00% error 162.0000 using      8+4  +  80+40+20+10        12.0000 + 150.0000
+162.6 Ohm with 0.04% error 162.6667 using   8+4+(2|1)  +  80+40+20+10     12.6667 + 150.0000
+163.0 Ohm with 0.00% error 163.0000 using     8+4+1  +  80+40+20+10       13.0000 + 150.0000
+164.0 Ohm with 0.00% error 164.0000 using     8+4+2  +  80+40+20+10       14.0000 + 150.0000
+165.0 Ohm with 0.00% error 165.0000 using    8+4+2+1  +  80+40+20+10      15.0000 + 150.0000
+1213 records 
